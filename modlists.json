@@ -21,20 +21,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/banner4.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_cd212e07-8f90-4d33-a62f-a36816d8db7e",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_33d11e91-3be1-48d6-bc24-be54b1c654fb",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "k7h2NiLKrI0=",
-      "Size": 364464595,
+      "Hash": "zj6GkS4ltUk=",
+      "Size": 364464357,
       "NumberOfArchives": 945,
       "SizeOfArchives": 88765142235,
-      "NumberOfInstalledFiles": 178482,
-      "SizeOfInstalledFiles": 132181273920
+      "NumberOfInstalledFiles": 178478,
+      "SizeOfInstalledFiles": 132181273625
     },
-    "version": "3.0.5.1",
+    "version": "3.0.5.3",
     "RepositoryName": ""
   },
   {
