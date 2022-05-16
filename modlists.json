@@ -19,8 +19,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/banner4.webp",
-      "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/thepath/main/images/logo.webp",
+      "readme": "https://raw.githubusercontent.com/Lost-Outpost/thepath/main/README.md",
       "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_c02628c5-a6af-41a8-a83a-f0467d42e33b",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
