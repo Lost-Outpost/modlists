@@ -95,8 +95,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/SiraMirai/journey/main/images/Journey Banner3.webp",
-      "readme": "https://github.com/SiraMirai/journey/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/journey/main/images/Journey Banner3.webp",
+      "readme": "https://github.com/Lost-Outpost/journey/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Journey.wabbajack_fc7a4b05-1331-4f24-a7b6-0cb2f0901070",
       "machineURL": "journey",
       "discordURL": "https://discord.gg/WF66mMu"
