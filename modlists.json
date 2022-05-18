@@ -95,7 +95,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/journey/main/images/Journey Banner3.webp",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/journey/main/images/JourneyBanner3.webp",
       "readme": "https://github.com/Lost-Outpost/journey/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Journey.wabbajack_a80a8040-eb79-4fb0-9f1e-52f240ab6065",
       "machineURL": "journey",
