@@ -97,18 +97,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Lost-Outpost/journey/main/images/JourneyBanner3.webp",
       "readme": "https://github.com/Lost-Outpost/journey/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Journey.wabbajack_1b314b63-4e69-42fe-ae01-4c5169da509c",
+      "download": "https://authored-files.wabbajack.org/Journey.wabbajack_51608555-2eb5-4c86-9e73-168d5967f410",
       "machineURL": "journey",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "BwWNWYdMzbI=",
-      "Size": 247214557,
+      "Hash": "ZOYsLWyHcnk=",
+      "Size": 247214665,
       "NumberOfArchives": 716,
       "SizeOfArchives": 77675521046,
-      "NumberOfInstalledFiles": 69510,
-      "SizeOfInstalledFiles": 95059929816
+      "NumberOfInstalledFiles": 69512,
+      "SizeOfInstalledFiles": 95059929926
     },
     "version": "1.1.2",
     "RepositoryName": ""
