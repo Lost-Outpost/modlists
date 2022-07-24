@@ -85,7 +85,7 @@
       "SiraMirai"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
       "Official"
     ],
@@ -111,6 +111,44 @@
       "SizeOfInstalledFiles": 95059816111
     },
     "version": "1.1.2.1",
+    "RepositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Lost Legacy",
+    "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
+    "author": "GreatPadinski",
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/banner.webp",
+      "readme": "https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_da898af9-9b4d-42b5-8944-ae90781fccbe",
+      "machineURL": "lostlegacy",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ROkenzfqc+8=",
+      "Size": 659791872,
+      "NumberOfArchives": 1183,
+      "SizeOfArchives": 120317126860,
+      "NumberOfInstalledFiles": 181163,
+      "SizeOfInstalledFiles": 194113479545
+    },
+    "version": "1.0.0",
     "RepositoryName": ""
   }
 ]
