@@ -135,20 +135,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/banner.webp",
       "readme": "https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_f48436ed-9593-41b8-98c2-e2aa01868847",
+      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_25e6941c-eeaa-44c4-be28-28f727a78ddb",
       "machineURL": "lostlegacy",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "vIdqvvQVu9Y=",
-      "Size": 659547031,
-      "NumberOfArchives": 1185,
-      "SizeOfArchives": 120317269890,
-      "NumberOfInstalledFiles": 181171,
-      "SizeOfInstalledFiles": 194110739805
+      "Hash": "AGm+H8/sroE=",
+      "Size": 659483821,
+      "NumberOfArchives": 1190,
+      "SizeOfArchives": 120364418825,
+      "NumberOfInstalledFiles": 181232,
+      "SizeOfInstalledFiles": 194173113183
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "RepositoryName": ""
   }
 ]
