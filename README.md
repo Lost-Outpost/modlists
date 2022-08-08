@@ -1,7 +1,7 @@
 # Modlist Repository
 
 ## [Lost Legacy](https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md)
-Lost Legacy is a Skyrim modlist focused on adding lots of new quest and new lands mods, tons of Legacy of the Dragonborn displays, power fantasy gameplay (full EnaiRim + vokriinator), pretty graphics, and optional survival mechanics!
+Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!
 
 ## [Septimus](https://github.com/Guitarninja2/septimus/blob/main/README.md)
 > "I can almost... hear them. I feel their life energy. Come, I will make the mixture."
