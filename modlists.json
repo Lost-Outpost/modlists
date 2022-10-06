@@ -1,6 +1,44 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Septimus",
+    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.",
+    "author": "Guitarninja",
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/images/banner4.webp",
+      "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_b637747e-6b50-4c16-b641-e7297310be0e",
+      "machineURL": "septimus",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "tsFs0FD/O2s=",
+      "Size": 391579708,
+      "NumberOfArchives": 1019,
+      "SizeOfArchives": 94536892218,
+      "NumberOfInstalledFiles": 182882,
+      "SizeOfInstalledFiles": 139347955162
+    },
+    "version": "3.1.1.1",
+    "RepositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Journey",
     "description": "Journey is a lightweight modlist designed to keep the spirit of Skyrim's aesthetic while giving an enhanced graphical presentation and provide a cohesive lightweight gameplay overhaul. Included are a carefully selected set of additional quests, new lands, companions, and an optional survival mode component and Creation Club integration. Journey is designed to look and run beautifully, even on lower end systems.",
     "author": "SiraMirai",
