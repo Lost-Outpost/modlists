@@ -41,6 +41,44 @@
     "repositoryName": ""
   },
   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "The Path",
+    "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game's original vision.",
+    "author": "Guitarninja",
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
+    "game": "enderalspecialedition",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/images/banner.webp",
+      "readme": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/README.md",
+      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_32bebfb1-9925-4fdc-be7a-374f06226252",
+      "machineURL": "thepath",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "m3nOQQi1fpE=",
+      "Size": 401320225,
+      "NumberOfArchives": 636,
+      "SizeOfArchives": 65883906404,
+      "NumberOfInstalledFiles": 54685,
+      "SizeOfInstalledFiles": 77424736725
+    },
+    "version": "1.2.0",
+    "RepositoryName": ""
+  },
+  {
     "title": "Journey",
     "description": "Journey is a lightweight modlist designed to keep the spirit of Skyrim\u0027s aesthetic while giving an enhanced graphical presentation and provide a cohesive lightweight gameplay overhaul. Included are a carefully selected set of additional quests, new lands, companions, and an optional survival mode component and Creation Club integration. Journey is designed to look and run beautifully, even on lower end systems.",
     "author": "SiraMirai",
