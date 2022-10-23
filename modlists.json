@@ -41,9 +41,8 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Path",
-    "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game's original vision.",
+    "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
     "maintainers": [
       "github/Guitarninja2",
@@ -59,24 +58,24 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_32bebfb1-9925-4fdc-be7a-374f06226252",
+      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_57789e50-3aca-4208-a537-3ab17af086ba",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "m3nOQQi1fpE=",
-      "Size": 401320225,
-      "NumberOfArchives": 636,
-      "SizeOfArchives": 65883906404,
-      "NumberOfInstalledFiles": 54685,
-      "SizeOfInstalledFiles": 77424736725
+      "Hash": "3aUEQOEY6Wg=",
+      "Size": 375421927,
+      "NumberOfArchives": 715,
+      "SizeOfArchives": 65572588527,
+      "NumberOfInstalledFiles": 54245,
+      "SizeOfInstalledFiles": 77287122914
     },
     "version": "1.2.0",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-23T16:56:28.7249107Z",
+    "repositoryName": ""
   },
   {
     "title": "Journey",
