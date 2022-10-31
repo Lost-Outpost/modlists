@@ -6,7 +6,7 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 ## [Septimus](https://github.com/Guitarninja2/septimus/blob/main/README.md)
 > "I can almost... hear them. I feel their life energy. Come, I will make the mixture."
 
-Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It also contains optional lightweight survival gameplay and full anniversary edition creation club support. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
+Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.
 
 ## [Journey](https://github.com/Lost-Outpost/journey/blob/main/README.md)
 > "You realize that all your life you have been coasting along as if you were in a dream. Suddenly, facing the trials of the last few days, you have come alive."
