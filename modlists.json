@@ -1,7 +1,7 @@
 [
   {
     "title": "Septimus",
-    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60+ framerate on almost any machine.",
+    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60\u002B framerate on almost any machine.",
     "author": "Guitarninja",
     "maintainers": [
       "github/Guitarninja2",
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/banner5.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_bebd8216-3a74-45a4-9eb6-a5618b275c69",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_e9c8805b-058e-465f-9f6a-26021592900c",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "CSV0jeEOC0E=",
-      "Size": 505720441,
-      "NumberOfArchives": 1915,
-      "SizeOfArchives": 106875397891,
-      "NumberOfInstalledFiles": 117244,
-      "SizeOfInstalledFiles": 133778975226
+      "Hash": "WimfSAg5ivA=",
+      "Size": 505604140,
+      "NumberOfArchives": 1891,
+      "SizeOfArchives": 111216643774,
+      "NumberOfInstalledFiles": 127483,
+      "SizeOfInstalledFiles": 133210587430
     },
-    "version": "4.0.2",
+    "version": "4.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-23T21:49:33.2413511Z",
+    "dateUpdated": "2022-10-31T15:58:53.1482567Z",
     "repositoryName": ""
   },
   {
