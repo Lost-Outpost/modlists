@@ -42,7 +42,7 @@
   },
   {
     "title": "Dragonborn",
-    "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
+    "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
     "maintainers": [
       "github/Guitarninja2",
@@ -64,21 +64,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_36c74ca6-abef-4f34-94c3-a2ad26349b27",
+      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_61e1f1a2-9d5f-486f-bd75-863972ff5b0d",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "vjM/jxiQfjM=",
-      "Size": 298309309,
-      "NumberOfArchives": 684,
-      "SizeOfArchives": 51596747682,
-      "NumberOfInstalledFiles": 50282,
-      "SizeOfInstalledFiles": 61639348544
+      "Hash": "ThnRUK8rZGo=",
+      "Size": 298446657,
+      "NumberOfArchives": 687,
+      "SizeOfArchives": 51620083562,
+      "NumberOfInstalledFiles": 50527,
+      "SizeOfInstalledFiles": 61750816349
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-19T02:26:40.5824426Z",
+    "dateUpdated": "2022-12-19T17:52:54.9925002Z",
     "repositoryName": ""
   },
   {
