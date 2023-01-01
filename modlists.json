@@ -101,21 +101,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/thepath/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_bd97e031-144a-4786-9dca-20476363353a",
+      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_822fbc44-f1c4-4ca4-83c2-4a974da46e0b",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "bRCnBYdu9cc=",
-      "Size": 245283867,
-      "NumberOfArchives": 508,
-      "SizeOfArchives": 43731927660,
-      "NumberOfInstalledFiles": 40730,
-      "SizeOfInstalledFiles": 43433604523
+      "Hash": "6KELFVY1vts=",
+      "Size": 246987809,
+      "NumberOfArchives": 505,
+      "SizeOfArchives": 45251357320,
+      "NumberOfInstalledFiles": 42132,
+      "SizeOfInstalledFiles": 46467207829
     },
-    "version": "1.4.0",
+    "version": "1.4.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-22T23:13:40.139744Z",
+    "dateUpdated": "2023-01-01T21:13:44.0423421Z",
     "repositoryName": ""
   },
   {
