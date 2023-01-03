@@ -119,43 +119,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Journey",
-    "description": "Journey is a lightweight modlist designed to keep the spirit of Skyrim\u0027s aesthetic while giving an enhanced graphical presentation and provide a cohesive lightweight gameplay overhaul. Included are a carefully selected set of additional quests, new lands, companions, and an optional survival mode component and Creation Club integration. Journey is designed to look and run beautifully, even on lower end systems.",
-    "author": "SiraMirai",
-    "maintainers": [
-      "github/SiraMirai",
-      "SiraMirai"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/journey/main/images/JourneyBanner3.webp",
-      "readme": "https://github.com/Lost-Outpost/journey/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Journey.wabbajack_7af5b23e-9e4a-4bfa-9169-d4382fdfe2cf",
-      "machineURL": "journey",
-      "discordURL": "https://discord.gg/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "o1op5uuAlzM=",
-      "Size": 296622204,
-      "NumberOfArchives": 717,
-      "SizeOfArchives": 77705443113,
-      "NumberOfInstalledFiles": 92355,
-      "SizeOfInstalledFiles": 95086334520
-    },
-    "version": "1.1.3",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-08T04:30:46.4290641Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
