@@ -12,6 +12,7 @@
     "tags": [
       "Official",
       "Creation Club",
+      "Legacy of the Dragonborn",
       "SimonRim",
       "NeverNude",
       "Performance"
@@ -49,9 +50,9 @@
       "guitarninja"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
-      "Unofficial",
+      "Official",
       "Creation Club",
       "SimonRim",
       "NeverNude",
