@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/logo_redone.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_e156cece-c296-4ab8-a0c4-c2d7dfd77cfe",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_967e2a5b-b4b7-468b-a74e-03e0e46d151e",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "Va1VVpXbjs4=",
-      "Size": 365966699,
-      "NumberOfArchives": 686,
-      "SizeOfArchives": 51775964533,
-      "NumberOfInstalledFiles": 77385,
-      "SizeOfInstalledFiles": 80735612473
+      "Hash": "pzG2qtaF0Ss=",
+      "Size": 366706383,
+      "NumberOfArchives": 689,
+      "SizeOfArchives": 52012171370,
+      "NumberOfInstalledFiles": 77679,
+      "SizeOfInstalledFiles": 80964209591
     },
-    "version": "1.0.7",
+    "version": "1.0.8",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-08T19:56:40.3344204Z",
+    "dateUpdated": "2023-01-09T17:22:12.4475048Z",
     "repositoryName": ""
   },
   {
