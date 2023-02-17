@@ -133,7 +133,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/assets/Ro.png",
+      "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist v0.7.4.wabbajack_79db3a43-5b20-45d6-9d33-970c37ebb079",
       "machineURL": "ro",
