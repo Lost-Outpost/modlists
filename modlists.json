@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_e307277f-be32-4bb3-8450-2db1137e32f9",
+      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_334df23a-ca2c-40cc-9e12-a9c5428b3834",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "qXh1rs76wME=",
-      "Size": 355151991,
+      "Hash": "j7T+uh0N4ow=",
+      "Size": 344113428,
       "NumberOfArchives": 517,
-      "SizeOfArchives": 25305187787,
-      "NumberOfInstalledFiles": 47424,
-      "SizeOfInstalledFiles": 37453017526
+      "SizeOfArchives": 24842648079,
+      "NumberOfInstalledFiles": 47183,
+      "SizeOfInstalledFiles": 36769353689
     },
     "version": "1.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-17T05:40:57.2270271Z",
+    "dateUpdated": "2023-02-17T17:31:36.665701Z",
     "repositoryName": ""
   },
   {
