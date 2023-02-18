@@ -120,50 +120,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-11-20T22:40:52.1854432Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Ro",
-    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
-    "author": "ThirdEyeSqueegee",
-    "maintainers": [
-      "github/ThirdEyeSqueegee",
-      "ThirdEyeSqueegee"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Unofficial",
-      "Anniversary Edition",
-      "Balanced",
-      "Creation Club",
-      "SimonRim",
-      "NeverNude",
-      "Vanilla Plus",
-      "Visual Overhaul",
-      "Visuals"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro.webp",
-      "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist v0.7.4.wabbajack_79db3a43-5b20-45d6-9d33-970c37ebb079",
-      "machineURL": "ro",
-      "discordURL": "https://discord.gg/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "Lfiev0kp1Xg=",
-      "Size": 341304190,
-      "NumberOfArchives": 912,
-      "SizeOfArchives": 78742020392,
-      "NumberOfInstalledFiles": 113102,
-      "SizeOfInstalledFiles": 134927709904
-    },
-    "version": "0.7.4",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-17T12:36:30Z",
-    "repositoryName": ""
   }
 ]
