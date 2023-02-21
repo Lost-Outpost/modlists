@@ -112,7 +112,7 @@
   },
   {
     "title": "Ro",
-    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy's ENB for Obsidian Weathers.",
+    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
     "author": "ThirdEyeSqueegee",
     "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
     "game": "skyrimspecialedition",
@@ -135,21 +135,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist v1.0.0.wabbajack_0959f1a1-c737-46f7-a341-33fc56e851b5",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist v1.0.1.wabbajack_84ce1928-644f-4af4-a70a-c59ce3134083",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "ql5MRjUqY5U=",
-      "Size": 330285699,
+      "Hash": "GOXlcWjzJM8=",
+      "Size": 330291982,
       "NumberOfArchives": 1031,
-      "SizeOfArchives": 92028030982,
-      "NumberOfInstalledFiles": 119231,
-      "SizeOfInstalledFiles": 155496702779
+      "SizeOfArchives": 92194769241,
+      "NumberOfInstalledFiles": 119375,
+      "SizeOfInstalledFiles": 155590989073
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-21T08:30:00Z",
+    "dateUpdated": "2023-02-21T10:30:00Z",
     "repositoryName": ""
   }
 ]
