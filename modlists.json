@@ -3,7 +3,10 @@
     "title": "Dragonborn",
     "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -22,31 +25,36 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_755a084d-9cb0-4497-b04d-635af4eea1c5",
+      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_3917eaa5-4d78-4304-aeac-d2be14be439c",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "BoE74uPSjGQ=",
-      "Size": 411068899,
-      "NumberOfArchives": 536,
-      "SizeOfArchives": 26177595400,
-      "NumberOfInstalledFiles": 47965,
-      "SizeOfInstalledFiles": 37169268132
+      "Hash": "37J+nupfZb4=",
+      "Size": 411190680,
+      "NumberOfArchives": 544,
+      "SizeOfArchives": 26190028321,
+      "NumberOfInstalledFiles": 47984,
+      "SizeOfInstalledFiles": 37195152042
     },
-    "version": "1.3.5",
+    "version": "1.3.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-20T17:50:22.1978239Z",
+    "dateUpdated": "2023-02-21T21:09:32.3460985Z",
     "repositoryName": ""
   },
   {
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "enderalspecialedition",
     "official": true,
-    "tags": ["Official"],
+    "tags": [
+      "Official"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -75,7 +83,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -112,9 +123,12 @@
   },
   {
     "title": "Ro",
-    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
+    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
