@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Wayfarer",
+    "description": "Wayfarer is a lightweight Wabbajack modlist for New Vegas. The goal of Wayfarer is to greatly improve and modernize gameplay without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance. ",
+    "author": "Ender",
+    "maintainers": [
+      "github/Ender108"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "Lightweight",
+      "JSawyer",
+      "Challenging",
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Ender108/Wayfarer/blob/main/Wayfarer.png",
+      "readme": "https://github.com/Ender108/Wayfarer/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_6c7bc5cd-9cdd-4ec2-b6f7-961aee081336",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.com/invite/WF66mMu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "zLKcjqIkx3g=",
+      "Size": 227070923,
+      "NumberOfArchives": 157,
+      "SizeOfArchives": 1997369136,
+      "NumberOfInstalledFiles": 12435,
+      "SizeOfInstalledFiles": 5671076077
+    },
+    "version": "1.0.1"
+  }
+]
