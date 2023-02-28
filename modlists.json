@@ -44,7 +44,7 @@
   },
   {
     "title": "Simplicity of Skyrim",
-    "description": "Simplicity of Skyrim is a minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It's intended for players to be able to import their vanilla save and experience new content and gameplay opportunities without having to start all the way over again.",
+    "description": "Simplicity of Skyrim is a minimalist modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking and makes minimal invasive changes to your game world. It\u0027s intended for players to be able to import their vanilla save and experience new content and gameplay opportunities without having to start all the way over again.",
     "author": "Guitarninja",
     "maintainers": [
       "github/Guitarninja2",
@@ -230,21 +230,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Wayfarer/main/Wayfarer16-9.webp",
       "readme": "https://github.com/Ender108/Wayfarer/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_65936409-1cfc-43a1-9269-13888d879524",
+      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_aea7e2fa-d55e-4c3e-97d1-e2fea04e7460",
       "machineURL": "wayfarer",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "J/WnzH66QkY=",
-      "Size": 229263011,
+      "Hash": "4K5eOQS9ARk=",
+      "Size": 229277693,
       "NumberOfArchives": 602,
       "SizeOfArchives": 11541160509,
       "NumberOfInstalledFiles": 12070,
-      "SizeOfInstalledFiles": 14964646630
+      "SizeOfInstalledFiles": 14964674144
     },
     "version": "1.1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-28T15:28:54.2262888Z",
+    "dateUpdated": "2023-02-28T20:39:19.362248Z",
     "repositoryName": ""
   }
 ]
