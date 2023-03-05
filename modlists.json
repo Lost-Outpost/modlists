@@ -229,21 +229,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Wayfarer/main/Wayfarer16-9.webp",
       "readme": "https://github.com/Ender108/Wayfarer/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_03e47912-b7da-4cc5-b9ef-780102ae53e4",
+      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_3dec1f20-5d4f-4b55-9234-cc49d9a6ec7f",
       "machineURL": "wayfarer",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "5LkCNpCttCs=",
-      "Size": 229281740,
-      "NumberOfArchives": 603,
-      "SizeOfArchives": 11541284741,
-      "NumberOfInstalledFiles": 12075,
-      "SizeOfInstalledFiles": 14964810157
+      "Hash": "FqfeN9esv1Q=",
+      "Size": 345187393,
+      "NumberOfArchives": 607,
+      "SizeOfArchives": 10959309120,
+      "NumberOfInstalledFiles": 11798,
+      "SizeOfInstalledFiles": 14413587462
     },
-    "version": "1.1.6",
+    "version": "1.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-02T18:05:48.0343339Z",
+    "dateUpdated": "2023-03-05T16:36:01.2728436Z",
     "repositoryName": ""
   }
 ]
