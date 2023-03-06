@@ -190,21 +190,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_ba21b33f-1284-4597-b0bc-13955c263e36",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_85ef065f-b8fa-4853-8398-9f47c0296737",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "lgi6HFKNyFU=",
-      "Size": 243765212,
-      "NumberOfArchives": 1165,
-      "SizeOfArchives": 101640215164,
-      "NumberOfInstalledFiles": 123880,
-      "SizeOfInstalledFiles": 172279015268
+      "Hash": "IUA+B2/bFPQ=",
+      "Size": 243805871,
+      "NumberOfArchives": 1167,
+      "SizeOfArchives": 101674411173,
+      "NumberOfInstalledFiles": 123898,
+      "SizeOfInstalledFiles": 172333026482
     },
-    "version": "1.1.20",
+    "version": "1.1.21",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-06T01:40:00.366431Z",
+    "dateUpdated": "2023-03-06T04:50:33.7080463Z",
     "repositoryName": ""
   },
   {
