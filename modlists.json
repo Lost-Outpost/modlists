@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/simplicity-of-skyrim/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/simplicity-of-skyrim/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Simplicity of Skyrim.wabbajack_abe7222f-d903-488d-94aa-fdb466dc115d",
+      "download": "https://authored-files.wabbajack.org/Simplicity of Skyrim.wabbajack_4eaf9cf0-0890-4044-81b4-725fcdd70689",
       "machineURL": "sos",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "bI5mVqYenJE=",
-      "Size": 267343483,
-      "NumberOfArchives": 275,
-      "SizeOfArchives": 14348954475,
-      "NumberOfInstalledFiles": 30647,
-      "SizeOfInstalledFiles": 21439501954
+      "Hash": "RccwzaJASl8=",
+      "Size": 276266402,
+      "NumberOfArchives": 277,
+      "SizeOfArchives": 14348727427,
+      "NumberOfInstalledFiles": 30708,
+      "SizeOfInstalledFiles": 21554920068
     },
-    "version": "1.0.11.1",
+    "version": "1.0.13",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-05T14:44:11.8294201Z",
+    "dateUpdated": "2023-03-10T16:06:28.4595073Z",
     "repositoryName": ""
   },
   {
