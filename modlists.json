@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": "Septimus",
     "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60\u002B framerate on almost any machine.",
     "author": "Guitarninja",
@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/logo_redone.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_7f1fb5ec-e43c-4f08-aa18-f93d2f5611c9",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_04d4a60b-0ba6-4c0c-b0ef-6a1135f15d4d",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "2SmcObRQPCM=",
-      "Size": 366046055,
-      "NumberOfArchives": 659,
-      "SizeOfArchives": 50723760096,
-      "NumberOfInstalledFiles": 76725,
-      "SizeOfInstalledFiles": 79637054208
+      "Hash": "2kxWhLxAxKw=",
+      "Size": 301450933,
+      "NumberOfArchives": 531,
+      "SizeOfArchives": 31042314423,
+      "NumberOfInstalledFiles": 49490,
+      "SizeOfInstalledFiles": 45475869606
     },
-    "version": "1.0.0",
+    "version": "1.4.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-05T00:18:16.6866476Z",
+    "dateUpdated": "2023-03-19T20:32:58.7568663Z",
     "repositoryName": ""
   },
   {
