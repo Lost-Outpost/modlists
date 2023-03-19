@@ -1,4 +1,46 @@
 [
+    {
+    "title": "Septimus",
+    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60\u002B framerate on almost any machine.",
+    "author": "Guitarninja",
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+      "Creation Club",
+      "NeverNude",
+      "Performance",
+      "Steam Deck",
+      "GOG"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/logo_redone.webp",
+      "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_7f1fb5ec-e43c-4f08-aa18-f93d2f5611c9",
+      "machineURL": "septimus",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "Hash": "2SmcObRQPCM=",
+      "Size": 366046055,
+      "NumberOfArchives": 659,
+      "SizeOfArchives": 50723760096,
+      "NumberOfInstalledFiles": 76725,
+      "SizeOfInstalledFiles": 79637054208
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-01-05T00:18:16.6866476Z",
+    "repositoryName": ""
+  },
   {
     "title": "Dragonborn",
     "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
@@ -39,48 +81,6 @@
     "version": "1.4.4",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-03-17T16:22:08.7370974Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "Simplicity of Skyrim",
-    "description": "Simplicity of Skyrim is a minimalist modlist containing essential fixes and tools along with a lightweight visual overhaul. Some optional gameplay and content addons are included that can be customized to your liking. The list is intended for players to be able to import their vanilla save without having to start all the way over again.",
-    "author": "Guitarninja",
-    "maintainers": [
-      "github/Guitarninja2",
-      "guitarninja"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Unofficial",
-      "Creation Club",
-      "NeverNude",
-      "Performance",
-      "Steam Deck",
-      "GOG"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/simplicity-of-skyrim/main/images/banner.webp",
-      "readme": "https://raw.githubusercontent.com/Lost-Outpost/simplicity-of-skyrim/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Simplicity of Skyrim.wabbajack_3ee098a2-ef91-4808-a2ed-0e71caca3eec",
-      "machineURL": "sos",
-      "discordURL": "https://discord.gg/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "Z238z9jB2wI=",
-      "Size": 276273353,
-      "NumberOfArchives": 276,
-      "SizeOfArchives": 14371686148,
-      "NumberOfInstalledFiles": 31071,
-      "SizeOfInstalledFiles": 21669709387
-    },
-    "version": "1.0.14",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-15T14:39:42.873686Z",
     "repositoryName": ""
   },
   {
