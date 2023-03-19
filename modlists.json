@@ -3,7 +3,10 @@
     "title": "Dragonborn",
     "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Simplicity of Skyrim",
     "description": "Simplicity of Skyrim is a minimalist modlist containing essential fixes and tools along with a lightweight visual overhaul. Some optional gameplay and content addons are included that can be customized to your liking. The list is intended for players to be able to import their vanilla save without having to start all the way over again.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -81,10 +87,15 @@
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "enderalspecialedition",
     "official": true,
-    "tags": ["Official"],
+    "tags": [
+      "Official"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -113,7 +124,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -152,7 +166,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -173,31 +190,38 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro%20logo%20with%20bg%20and%20text.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_ca8071a4-4aa3-4ff2-a299-1a852ddf14c8",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_279d1bea-e76c-4e36-b146-b5a2a5c5496c",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "yI4RT0/EouY=",
-      "Size": 335747859,
-      "NumberOfArchives": 1406,
-      "SizeOfArchives": 112828039284,
-      "NumberOfInstalledFiles": 151784,
-      "SizeOfInstalledFiles": 192304069034
+      "Hash": "NE4tZgwR6d0=",
+      "Size": 335588218,
+      "NumberOfArchives": 1409,
+      "SizeOfArchives": 112969739655,
+      "NumberOfInstalledFiles": 151826,
+      "SizeOfInstalledFiles": 192594743866
     },
-    "version": "1.1.60",
+    "version": "1.1.61",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-19T01:37:48.8799179Z",
+    "dateUpdated": "2023-03-19T04:16:20.1791615Z",
     "repositoryName": ""
   },
   {
     "title": "Wayfarer",
     "description": "Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "falloutnewvegas",
     "official": false,
-    "tags": ["Lightweight", "JSawyer Ultimate", "Vicious Wastes", "Hardcore"],
+    "tags": [
+      "Lightweight",
+      "JSawyer Ultimate",
+      "Vicious Wastes",
+      "Hardcore"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
