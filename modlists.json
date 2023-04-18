@@ -3,7 +3,10 @@
     "title": "Septimus",
     "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60\u002B framerate on almost any machine.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Dragonborn",
     "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -81,10 +87,15 @@
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "enderalspecialedition",
     "official": true,
-    "tags": ["Official"],
+    "tags": [
+      "Official"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -113,7 +124,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -152,7 +166,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -194,10 +211,17 @@
     "title": "Wayfarer",
     "description": "Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "falloutnewvegas",
     "official": false,
-    "tags": ["Lightweight", "JSawyer Ultimate", "Vicious Wastes", "Hardcore"],
+    "tags": [
+      "Lightweight",
+      "JSawyer Ultimate",
+      "Vicious Wastes",
+      "Hardcore"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
@@ -226,7 +250,9 @@
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -244,21 +270,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/Ascendance.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance%20-%20A%20Lightweight%20Difficulty%20Modlist.wabbajack_4eea43b1-c9f9-4d88-bd50-a5ca3b850afc",
+      "download": "https://authored-files.wabbajack.org/Ascendance - A Lightweight Difficulty Modlist.wabbajack_a7c3cb17-351f-4ff2-b31e-e2b15f9d8299",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "/2gyo8F6qJQ=",
-      "Size": 41245534,
+      "Hash": "J1hGbcAGU0I=",
+      "Size": 41245288,
       "NumberOfArchives": 841,
       "SizeOfArchives": 39730118630,
       "NumberOfInstalledFiles": 80554,
-      "SizeOfInstalledFiles": 62703874486
+      "SizeOfInstalledFiles": 62703874031
     },
     "version": "0.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-04-10T15:12:44.6365118Z",
+    "dateUpdated": "2023-04-18T20:20:20.7431843Z",
     "repositoryName": ""
   }
 ]
