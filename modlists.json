@@ -245,5 +245,44 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-04-10T15:12:44.6365118Z",
     "repositoryName": ""
-  }
-]
+  },
+ {
+    "title": "Ascendance",
+    "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
+    "author": "Ender",
+    "maintainers": [
+      "github/Ender108"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Lightweight",
+      "Difficulty",
+      "SimonRim",
+      "Survival",
+      "Anniversary Edition",
+      "Performance"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Ender108/Wayfarer/main/Wayfarer16-9.webp",
+      "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Ascendance%20-%20A%20Lightweight%20Difficulty%20Modlist.7z_962fdff1-7191-42fa-a0e7-67866cfa5b6d",
+      "machineURL": "ascendance",
+      "discordURL": "https://discord.com/invite/WF66mMu"
+    },
+    "download_metadata": {
+      "Hash": "/2gyo8F6qJQ=",
+      "Size": 41245534,
+      "NumberOfArchives": 841,
+      "SizeOfArchives": 39730118630,
+      "NumberOfInstalledFiles": 80554,
+      "SizeOfInstalledFiles": 62703874486
+    },
+    "version": "Beta1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-04-10T15:12:44.6365118Z",
+    "repositoryName": ""
