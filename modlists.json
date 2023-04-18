@@ -239,7 +239,7 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Wayfarer/main/Wayfarer16-9.webp",
