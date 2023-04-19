@@ -270,21 +270,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/Ascendance.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance - A Lightweight Difficulty Modlist.wabbajack_8233465e-907e-4b0a-8756-20254544c9fb",
+      "download": "https://authored-files.wabbajack.org/Ascendance - A Lightweight Difficulty Modlist.wabbajack_483a99c8-1b4f-46ac-aa7d-ea5a185ca731",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "F3N9INOOBS4=",
-      "Size": 43113071,
-      "NumberOfArchives": 738,
-      "SizeOfArchives": 36905660346,
-      "NumberOfInstalledFiles": 80150,
-      "SizeOfInstalledFiles": 59771503984
+      "Hash": "YsZ+dnUMEco=",
+      "Size": 43086606,
+      "NumberOfArchives": 746,
+      "SizeOfArchives": 36594472713,
+      "NumberOfInstalledFiles": 78671,
+      "SizeOfInstalledFiles": 59142951317
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-04-18T23:08:36.6900521Z",
+    "dateUpdated": "2023-04-19T02:31:31.0992806Z",
     "repositoryName": ""
   }
 ]
