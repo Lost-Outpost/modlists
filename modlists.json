@@ -3,7 +3,10 @@
     "title": "Septimus",
     "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival gameplay and full anniversary edition creation club integration. It is designed to look beautiful while maintaining a stable 60\u002B framerate on almost any machine.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Dragonborn",
     "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -81,10 +87,15 @@
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
-    "maintainers": ["github/Guitarninja2", "guitarninja"],
+    "maintainers": [
+      "github/Guitarninja2",
+      "guitarninja"
+    ],
     "game": "enderalspecialedition",
     "official": true,
-    "tags": ["Official"],
+    "tags": [
+      "Official"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -113,7 +124,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -152,7 +166,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for Obsidian Weathers.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -173,31 +190,38 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro%20logo%20with%20bg%20and%20text.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_4b931dbd-462a-4f98-899b-5ba50aa7a855",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_f98cae65-aa53-4aeb-810b-f338ca903a74",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "nAZBza/F0W8=",
-      "Size": 137663158,
-      "NumberOfArchives": 2083,
-      "SizeOfArchives": 151436701491,
-      "NumberOfInstalledFiles": 163773,
-      "SizeOfInstalledFiles": 259277548474
+      "Hash": "4mVAq/wVCyk=",
+      "Size": 137053023,
+      "NumberOfArchives": 2096,
+      "SizeOfArchives": 152140489502,
+      "NumberOfInstalledFiles": 164378,
+      "SizeOfInstalledFiles": 260386521479
     },
-    "version": "1.3.25",
+    "version": "1.3.26",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-04-19T04:00:02.9648601Z",
+    "dateUpdated": "2023-04-20T17:23:04.7039924Z",
     "repositoryName": ""
   },
   {
     "title": "Wayfarer",
     "description": "Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "falloutnewvegas",
     "official": false,
-    "tags": ["Lightweight", "JSawyer Ultimate", "Vicious Wastes", "Hardcore"],
+    "tags": [
+      "Lightweight",
+      "JSawyer Ultimate",
+      "Vicious Wastes",
+      "Hardcore"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
@@ -226,7 +250,9 @@
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -262,11 +288,12 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Redoran",
-    "description": "Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.",
+    "description": "Redoran is a modlist designed to be utilized with Skyrim\u0027s Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.",
     "author": "Foamimi",
-    "maintainers": ["github/Foamimi"],
+    "maintainers": [
+      "github/Foamimi"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -277,10 +304,10 @@
       "SimonRim"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Lost-Outpost/redoran/main/images/redoran.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/redoran/main/README.md",
       "download": "https://authored-files.wabbajack.org/Redoran.wabbajack_20aff438-1dd0-44b2-a994-be2082f24513",
@@ -288,7 +315,6 @@
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "nTG9S4xPOdU=",
       "Size": 371050388,
       "NumberOfArchives": 1198,
@@ -296,6 +322,9 @@
       "NumberOfInstalledFiles": 125547,
       "SizeOfInstalledFiles": 126666069648
     },
-    "version": "1.6.1"
+    "version": "1.6.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
