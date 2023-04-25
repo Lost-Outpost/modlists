@@ -10,10 +10,6 @@ Septimus is an extensive modlist full of carefully chosen new gear, spells, ques
 
 Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
 
-**Redoran** _by Foamimi_ - [Readme](https://github.com/Lost-Outpost/redoran/blob/main/README.md) - [Changelog](https://github.com/Lost-Outpost/redoran/blob/main/CHANGELOG.md) - [Issues](https://github.com/Lost-Outpost/redoran/issues)
-
-Redoran is a modlist designed to be utilized with Skyrim's Anniversary Edition Upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance. The AE content included in this pack has been fully integrated into the world of Skyrim. Most quests have either been reworked, removed, or expanded upon to enhance the experience.
-
 **The Path** _by GuitarNinja_ - [Readme](https://github.com/Lost-Outpost/thepath/blob/main/README.md) - [Changelog](https://github.com/Lost-Outpost/thepath/blob/main/CHANGELOG.md) - [Issues](https://github.com/Lost-Outpost/thepath/issues)
 
 The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.
