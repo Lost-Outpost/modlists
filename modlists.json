@@ -188,21 +188,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro%20logo%20with%20bg%20and%20text.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_00beeda7-da8d-4e6b-afbb-3582bee5cd4e",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_faa84918-305b-4024-9689-d0a06c73cf07",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "M7sGHT11Ap8=",
-      "Size": 250818828,
-      "NumberOfArchives": 2151,
-      "SizeOfArchives": 166073806880,
-      "NumberOfInstalledFiles": 155804,
-      "SizeOfInstalledFiles": 270505088104
+      "Hash": "zPt3NhJuCq0=",
+      "Size": 250882497,
+      "NumberOfArchives": 2161,
+      "SizeOfArchives": 166152551793,
+      "NumberOfInstalledFiles": 155956,
+      "SizeOfInstalledFiles": 270628668180
     },
-    "version": "1.7.8",
+    "version": "1.7.9",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-06-08T23:43:47.3727082Z",
+    "dateUpdated": "2023-06-11T20:53:52.9195354Z",
     "repositoryName": ""
   },
   {
