@@ -41,47 +41,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Dragonborn",
-    "description": "Dragonborn is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
-    "author": "Guitarninja",
-    "maintainers": [
-      "github/jaaimino"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Official",
-      "Creation Club",
-      "NeverNude",
-      "Performance",
-      "Steam Deck",
-      "GOG"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/images/banner.webp",
-      "readme": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_4b011162-71d6-4a5d-b1c5-746f6485ab8f",
-      "machineURL": "dragonborn",
-      "discordURL": "https://discord.gg/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "pZDf7fDlLaQ=",
-      "Size": 276975487,
-      "NumberOfArchives": 286,
-      "SizeOfArchives": 15582310712,
-      "NumberOfInstalledFiles": 57034,
-      "SizeOfInstalledFiles": 27198839999
-    },
-    "version": "1.0.24",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-04T12:51:13.0520878Z",
-    "repositoryName": ""
-  },
-  {
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping the game close to the game\u0027s original vision.",
     "author": "Guitarninja",
