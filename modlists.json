@@ -1,7 +1,7 @@
 [
   {
     "title": "Septimus",
-    "description": "Septimus is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
+    "description": "Septimus is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It\u0027s designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.",
     "author": "Guitarninja",
     "maintainers": [
       "github/jaaimino"
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/main/images/logo_redone.webp",
       "readme": "https://raw.githubusercontent.com/Guitarninja2/septimus/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_dc1b1263-c57f-4111-8bdb-77be72e2604f",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_45e0f641-6722-4e2d-b27b-7a2ce07773dd",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "+Z2yNbgQ+Q8=",
-      "Size": 269121922,
+      "Hash": "ryNPyVj8C5c=",
+      "Size": 267437917,
       "NumberOfArchives": 300,
       "SizeOfArchives": 15874405361,
-      "NumberOfInstalledFiles": 58829,
-      "SizeOfInstalledFiles": 27573808154
+      "NumberOfInstalledFiles": 36427,
+      "SizeOfInstalledFiles": 26231468610
     },
     "version": "1.8.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-16T16:33:59.4839886Z",
+    "dateUpdated": "2023-07-16T17:19:47.5691647Z",
     "repositoryName": ""
   },
   {
