@@ -87,45 +87,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Wayfarer",
-    "description": "Wayfarer is a lightweight difficulty based modlist for New Vegas. The goal of Wayfarer is to improve gameplay in a challenging yet rewarding way without completely overhauling the core New Vegas experience. Wayfarer also includes all essential stability mods and keeps visual mods to an absolute minimum to maximize performance.",
-    "author": "Ender",
-    "maintainers": [
-      "github/Ender108"
-    ],
-    "game": "falloutnewvegas",
-    "official": false,
-    "tags": [
-      "Lightweight",
-      "JSawyer Ultimate",
-      "Vicious Wastes",
-      "Hardcore"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Wayfarer/main/Wayfarer16-9.webp",
-      "readme": "https://github.com/Ender108/Wayfarer/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wayfarer.wabbajack_3c36c041-bfe5-4767-a0d1-f4f9a1067483",
-      "machineURL": "wayfarer",
-      "discordURL": "https://discord.com/invite/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "jhRMgFDtApA=",
-      "Size": 220632137,
-      "NumberOfArchives": 640,
-      "SizeOfArchives": 11299488775,
-      "NumberOfInstalledFiles": 12053,
-      "SizeOfInstalledFiles": 14012556785
-    },
-    "version": "1.4.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-25T16:39:13.3200129Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
