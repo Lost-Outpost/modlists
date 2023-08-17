@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \u002B EnaiRim) with a massive amount of new quest mods, 5000\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -63,28 +69,30 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro%20logo%20with%20bg%20and%20text.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_b82154a8-4e53-43fc-896a-e4472429046c",
+      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_1acdceba-1a7c-4054-847a-48bad891214e",
       "machineURL": "ro",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "RQqIadOk0Ec=",
-      "Size": 225418604,
-      "NumberOfArchives": 2274,
-      "SizeOfArchives": 168542600275,
-      "NumberOfInstalledFiles": 155791,
-      "SizeOfInstalledFiles": 255969533360
+      "Hash": "aAiHOnG7u2M=",
+      "Size": 135606477,
+      "NumberOfArchives": 2277,
+      "SizeOfArchives": 168078218646,
+      "NumberOfInstalledFiles": 155906,
+      "SizeOfInstalledFiles": 255438364808
     },
-    "version": "1.8.29",
+    "version": "1.8.30",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-17T03:06:45.9738408Z",
+    "dateUpdated": "2023-08-17T22:32:30.6165156Z",
     "repositoryName": ""
   },
   {
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
