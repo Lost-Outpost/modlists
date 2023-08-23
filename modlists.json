@@ -150,21 +150,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sovngarde - A Dragonborn\u0027s Legacy.wabbajack_38962d21-8727-43b6-aa94-4d674be67843",
+      "download": "https://authored-files.wabbajack.org/Sovngarde - A Dragonborn\u0027s Legacy.wabbajack_4ab5ab30-a0d2-4bc8-9a82-ebf8419cfb61",
       "machineURL": "sovngarde",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "A108rY/dN38=",
-      "Size": 270424175,
-      "NumberOfArchives": 316,
-      "SizeOfArchives": 20152347906,
-      "NumberOfInstalledFiles": 37764,
-      "SizeOfInstalledFiles": 31192445409
+      "Hash": "YSx+8SwPTho=",
+      "Size": 270422084,
+      "NumberOfArchives": 315,
+      "SizeOfArchives": 20148039547,
+      "NumberOfInstalledFiles": 37761,
+      "SizeOfInstalledFiles": 31177125975
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-23T17:54:01.3050315Z",
+    "dateUpdated": "2023-08-23T19:53:31.8754108Z",
     "repositoryName": ""
   }
 ]
