@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -84,7 +90,9 @@
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -123,10 +131,18 @@
     "title": "Sovngarde",
     "description": "Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.",
     "author": "Guitarninja",
-    "maintainers": ["github/jaaimino"],
+    "maintainers": [
+      "github/jaaimino"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": ["Creation Club", "SimonRim", "Performance", "Steam Deck", "GOG"],
+    "tags": [
+      "Creation Club",
+      "SimonRim",
+      "Performance",
+      "Steam Deck",
+      "GOG"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -134,21 +150,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_3510a5b4-3ddd-4641-88aa-9269b8c6eb7a",
+      "download": "https://authored-files.wabbajack.org/Sovngarde - A Dragonborn\u0027s Legacy.wabbajack_38962d21-8727-43b6-aa94-4d674be67843",
       "machineURL": "sovngarde",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "ZjM0KRgR0Yw=",
-      "Size": 772759429,
-      "NumberOfArchives": 798,
-      "SizeOfArchives": 57584380690,
-      "NumberOfInstalledFiles": 94975,
-      "SizeOfInstalledFiles": 89816976518
+      "Hash": "A108rY/dN38=",
+      "Size": 270424175,
+      "NumberOfArchives": 316,
+      "SizeOfArchives": 20152347906,
+      "NumberOfInstalledFiles": 37764,
+      "SizeOfInstalledFiles": 31192445409
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-12T18:58:55.9413325Z",
+    "dateUpdated": "2023-08-23T17:54:01.3050315Z",
     "repositoryName": ""
   }
 ]
