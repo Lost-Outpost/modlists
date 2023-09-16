@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -42,7 +45,10 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -84,7 +90,9 @@
     "title": "Ascendance",
     "description": "Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
     "author": "Ender",
-    "maintainers": ["github/Ender108"],
+    "maintainers": [
+      "github/Ender108"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -123,10 +131,18 @@
     "title": "Sovngarde",
     "description": "Sovngarde is a lightweight Legacy of the Dragonborn modlist with a minimal yet beautiful visual overhaul and the highest quality quest content. Included is full creation club support and a suite of balance mods to tie it all together with my own cut of simonrim.",
     "author": "Guitarninja",
-    "maintainers": ["github/jaaimino"],
+    "maintainers": [
+      "github/jaaimino"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": ["Creation Club", "SimonRim", "Performance", "Steam Deck", "GOG"],
+    "tags": [
+      "Creation Club",
+      "SimonRim",
+      "Performance",
+      "Steam Deck",
+      "GOG"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -153,12 +169,17 @@
   },
   {
     "title": "Outlander",
-    "description": "Outlander is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.",
+    "description": "Outlander is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game\u0027s original vision.",
     "author": "Guitarninja",
-    "maintainers": ["github/jaaimino"],
+    "maintainers": [
+      "github/jaaimino"
+    ],
     "game": "enderalspecialedition",
     "official": false,
-    "tags": ["Performance", "Lore-friendly"],
+    "tags": [
+      "Performance",
+      "Lore-friendly"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -166,21 +187,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/outlander/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/outlander/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sovngarde.wabbajack_c9e26536-c61d-4e6f-9b47-a0e92e3072dc",
+      "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_700f2455-68d9-4850-a68e-8de0a9c5fd08",
       "machineURL": "outlander",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "o6UPEK9r2/M=",
-      "Size": 251697474,
-      "NumberOfArchives": 321,
-      "SizeOfArchives": 20288984643,
-      "NumberOfInstalledFiles": 38159,
-      "SizeOfInstalledFiles": 31478236355
+      "Hash": "SnXGkZ/kwsk=",
+      "Size": 105640570,
+      "NumberOfArchives": 259,
+      "SizeOfArchives": 23423938760,
+      "NumberOfInstalledFiles": 31934,
+      "SizeOfInstalledFiles": 21542542262
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-24T15:53:30.7729047Z",
+    "dateUpdated": "2023-09-16T13:58:31.152007Z",
     "repositoryName": ""
   }
 ]
