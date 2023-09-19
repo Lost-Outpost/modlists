@@ -187,21 +187,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/outlander/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/outlander/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_700f2455-68d9-4850-a68e-8de0a9c5fd08",
+      "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_a46a826e-82b6-4792-9556-e04143b57faa",
       "machineURL": "outlander",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "SnXGkZ/kwsk=",
-      "Size": 105640570,
+      "Hash": "AndT3zVa+kw=",
+      "Size": 105640724,
       "NumberOfArchives": 259,
       "SizeOfArchives": 23423938760,
       "NumberOfInstalledFiles": 31934,
-      "SizeOfInstalledFiles": 21542542262
+      "SizeOfInstalledFiles": 21542542849
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-09-16T13:58:31.152007Z",
+    "dateUpdated": "2023-09-19T20:41:11.3464828Z",
     "repositoryName": ""
   }
 ]
