@@ -203,5 +203,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-09-19T20:41:11.3464828Z",
     "repositoryName": ""
-  }
+  },
+  {
+    "title": "Eldryn",
+    "description": "Eldryn is a modlist designed to be utilized with Skyrim's Anniversary Edition upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.",
+    "author": "Foamimi",
+    "maintainers": [
+      "github/Foamimi"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Unofficial",
+      "Special Edition", 
+      "Anniversary Edition",
+      "Performance",
+      "Simonrim", 
+      "Enairim", 
+      "LOTD", 
+      "Nevernude"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/Lost-Outpost/eldryn/blob/75d347981e6f8d17db85af21a07cf166bedb830f/images/000%20Eldryn.webp",
+      "readme": "https://github.com/Lost-Outpost/eldryn/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Eldryn%20-%20Wabbajack%20Download%201.4.0.7z_421a7654-4728-4700-88a4-fdd16edf0a60",
+      "machineURL": "eldryn",
+      "discordURL": "https://discord.com/invite/WF66mMu"
+    },
+    "download_metadata": {
+      "Hash": "z5bc7ah5QYE=",
+      "Size": 456009239,
+      "NumberOfArchives": 1365,
+      "SizeOfArchives": 93713307640,
+      "NumberOfInstalledFiles": 153165,
+      "SizeOfInstalledFiles": 151493521710
+    },
+    "version": "1.4.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-08-24T15:53:30.7729047Z",
+    "repositoryName": ""
+  },
 ]
