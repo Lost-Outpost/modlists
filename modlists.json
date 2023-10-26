@@ -228,7 +228,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://github.com/Lost-Outpost/eldryn/blob/75d347981e6f8d17db85af21a07cf166bedb830f/images/000%20Eldryn.webp",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/eldryn/main/images/000%20Eldryn.webp",
       "readme": "https://github.com/Lost-Outpost/eldryn/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Eldryn%20-%20Wabbajack%20Download%201.4.0.7z_421a7654-4728-4700-88a4-fdd16edf0a60",
       "machineURL": "eldryn",
