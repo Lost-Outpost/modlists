@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/banner.webp",
       "readme": "https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_3cebe809-8857-4031-985b-cf194856a1c1",
+      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_47967e5d-8ffb-47e8-9926-922949a4dd19",
       "machineURL": "lostlegacy",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "buh8q73uwjg=",
-      "Size": 398145864,
-      "NumberOfArchives": 1416,
-      "SizeOfArchives": 143738148148,
-      "NumberOfInstalledFiles": 239707,
-      "SizeOfInstalledFiles": 222491176667
+      "Hash": "CLvnDpQQkyc=",
+      "Size": 371442434,
+      "NumberOfArchives": 1420,
+      "SizeOfArchives": 144148768906,
+      "NumberOfInstalledFiles": 240669,
+      "SizeOfInstalledFiles": 222895833580
     },
-    "version": "1.2.0",
+    "version": "1.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-07-23T13:28:09.7964733Z",
+    "dateUpdated": "2023-11-10T14:31:21.800178Z",
     "repositoryName": ""
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "title": "Eldryn",
-    "description": "Eldryn is a modlist designed to be utilized with Skyrim's Anniversary Edition upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.",
+    "description": "Eldryn is a modlist designed to be utilized with Skyrim\u0027s Anniversary Edition upgrade, featuring high-quality quest-based content, followers, and generalized vanilla improvements, all while being optimized for performance.",
     "author": "Foamimi",
     "maintainers": [
       "github/Foamimi"
@@ -215,12 +215,12 @@
     "official": false,
     "tags": [
       "Unofficial",
-      "Special Edition", 
+      "Special Edition",
       "Anniversary Edition",
       "Performance",
-      "Simonrim", 
-      "Enairim", 
-      "LOTD", 
+      "Simonrim",
+      "Enairim",
+      "LOTD",
       "Nevernude"
     ],
     "nsfw": false,
