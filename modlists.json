@@ -20,6 +20,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/banner.webp",
@@ -65,6 +66,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro%20logo%20with%20bg%20and%20text.webp",
@@ -106,6 +108,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/AscendanceTitle.webp",
@@ -146,25 +149,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/images/banner.webp",
       "readme": "https://raw.githubusercontent.com/Lost-Outpost/sovngarde/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sovngarde.wabbajack_c9e26536-c61d-4e6f-9b47-a0e92e3072dc",
+      "download": "https://authored-files.wabbajack.org/Sovngarde - A Dragonborn\u0027s Legacy.wabbajack_0c9b65c4-97c4-4201-9c3d-0cbff062e47b",
       "machineURL": "sovngarde",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "o6UPEK9r2/M=",
-      "Size": 251697474,
-      "NumberOfArchives": 321,
-      "SizeOfArchives": 20288984643,
-      "NumberOfInstalledFiles": 38159,
-      "SizeOfInstalledFiles": 31478236355
+      "Hash": "rNc0Je5CxDs=",
+      "Size": 439270093,
+      "NumberOfArchives": 324,
+      "SizeOfArchives": 20302029170,
+      "NumberOfInstalledFiles": 38351,
+      "SizeOfInstalledFiles": 31750623611
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-24T15:53:30.7729047Z",
+    "dateUpdated": "2023-12-04T13:56:55.8266999Z",
     "repositoryName": ""
   },
   {
@@ -183,6 +187,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/outlander/main/images/banner.webp",
@@ -226,6 +231,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/eldryn/main/images/000%20Eldryn.webp",
