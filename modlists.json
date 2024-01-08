@@ -155,23 +155,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/eldryn/main/images/000%20Eldryn.webp",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/eldryn/main/images/000-ELDRYN-NEW-WIP2.webp",
       "readme": "https://github.com/Lost-Outpost/eldryn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Eldryn%20-%20Wabbajack%20Download%201.4.0.7z_421a7654-4728-4700-88a4-fdd16edf0a60",
+      "download": "https://build.wabbajack.org/authored_files/direct_link/Eldryn.wabbajack_23312c84-c3b3-4f89-8d18-0f2e99c0010b",
       "machineURL": "eldryn",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "z5bc7ah5QYE=",
-      "Size": 456009239,
-      "NumberOfArchives": 1365,
-      "SizeOfArchives": 93713307640,
-      "NumberOfInstalledFiles": 153165,
-      "SizeOfInstalledFiles": 151493521710
+      "Hash": "gvn/zAMHJgk=",
+      "Size": 536761896,
+      "NumberOfArchives": 1400,
+      "SizeOfArchives": 107949152815,
+      "NumberOfInstalledFiles": 163242,
+      "SizeOfInstalledFiles": 178922687493
     },
-    "version": "1.4.0",
+    "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-24T15:53:30.7729047Z",
+    "dateUpdated": "2024-01-07T15:53:30.7729047Z",
     "repositoryName": ""
   }
 ]
