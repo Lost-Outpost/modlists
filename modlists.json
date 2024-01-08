@@ -157,21 +157,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/eldryn/main/images/000-ELDRYN-NEW-WIP2.webp",
       "readme": "https://github.com/Lost-Outpost/eldryn/blob/main/README.md",
-      "download": "https://build.wabbajack.org/authored_files/direct_link/Eldryn.wabbajack_23312c84-c3b3-4f89-8d18-0f2e99c0010b",
+      "download": "https://authored-files.wabbajack.org/Eldryn.wabbajack_8195707c-08ad-4877-a0b3-54952865182e",
       "machineURL": "eldryn",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "gvn/zAMHJgk=",
-      "Size": 536761896,
+      "Hash": "SHLl6EItF/U=",
+      "Size": 536762124,
       "NumberOfArchives": 1400,
       "SizeOfArchives": 107949152815,
       "NumberOfInstalledFiles": 163242,
-      "SizeOfInstalledFiles": 178922687493
+      "SizeOfInstalledFiles": 178922687510
     },
     "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-07T15:53:30.7729047Z",
+    "dateUpdated": "2024-01-08T01:45:15.1383742Z",
     "repositoryName": ""
   }
 ]
