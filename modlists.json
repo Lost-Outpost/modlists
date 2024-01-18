@@ -113,21 +113,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/Skyrim%20Special%20Edition%201_16_2024%204_58_05%20PM.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance_b36bb5e0-5f23-42f2-985b-8368ff58fd40",
+      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_d879b548-ad2c-4ac9-b0f8-087b0b7393cc",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "v4LMmK8ivdY=",
-      "Size": 137875370,
-      "NumberOfArchives": 897,
-      "SizeOfArchives": 63729934311,
-      "NumberOfInstalledFiles": 85131,
-      "SizeOfInstalledFiles": 83204977325
+      "Hash": "2KzPBxWikFk=",
+      "Size": 137876817,
+      "NumberOfArchives": 898,
+      "SizeOfArchives": 63744222090,
+      "NumberOfInstalledFiles": 85133,
+      "SizeOfInstalledFiles": 83215927598
     },
-    "version": "3.0.0",
+    "version": "3.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-17T22:43:23.540284Z",
+    "dateUpdated": "2024-01-18T03:36:31.9948816Z",
     "repositoryName": ""
   },
   {
