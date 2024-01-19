@@ -8,4 +8,4 @@ Ro is an attempt to bring together the latest and greatest graphics mods and foc
 
 **Ascendance** _by Ender_ - [Readme](https://github.com/Ender108/Ascendance/blob/main/README.md) - [Changelog](https://github.com/Ender108/Ascendance/blob/main/CHANGELOG.md) - [Issues](https://github.com/Ender108/Ascendance/issues)
 
-Ascendance is a lightweight difficulty modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way without completely overhauling the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
+Ascendance is a Simonrim modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way using Simon Magus' series of overhauls, while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.
