@@ -113,21 +113,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/AscendanceTitle.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_78e04d37-9596-4367-bcda-192846e8dee3",
+      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_b4111e19-94a2-4339-922a-78a28c07ee17",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "4dBqcISviWs=",
-      "Size": 147468133,
-      "NumberOfArchives": 908,
-      "SizeOfArchives": 63910823431,
-      "NumberOfInstalledFiles": 85292,
-      "SizeOfInstalledFiles": 83362911487
+      "Hash": "RyzB9qbNYWA=",
+      "Size": 144288931,
+      "NumberOfArchives": 927,
+      "SizeOfArchives": 63930326268,
+      "NumberOfInstalledFiles": 84457,
+      "SizeOfInstalledFiles": 83392958059
     },
-    "version": "3.0.4",
+    "version": "3.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-01-22T15:53:24.9873305Z",
+    "dateUpdated": "2024-01-24T18:44:12.8757562Z",
     "repositoryName": ""
   },
   {
