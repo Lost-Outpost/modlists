@@ -110,21 +110,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/main/Morning-Star-Title-Picture.webp",
       "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_dbdcf0e3-f398-4e76-890f-fb2e3576554e",
+      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_285470c6-df4a-441c-a2b4-a1903778f356",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "QXbkbEgUjx0=",
-      "Size": 330787084,
-      "NumberOfArchives": 1043,
-      "SizeOfArchives": 67403085397,
-      "NumberOfInstalledFiles": 84501,
-      "SizeOfInstalledFiles": 91206408181
+      "Hash": "MA2GR313rp0=",
+      "Size": 95599717,
+      "NumberOfArchives": 500,
+      "SizeOfArchives": 56040959644,
+      "NumberOfInstalledFiles": 69929,
+      "SizeOfInstalledFiles": 67589398082
     },
-    "version": "3.2.1",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-20T23:36:51.2844171Z",
+    "dateUpdated": "2024-02-27T20:34:13.6073078Z",
     "repositoryName": ""
   }
 ]
