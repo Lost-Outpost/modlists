@@ -89,8 +89,8 @@
     "repositoryName": ""
   },
   {
-    "title": "Ascendance",
-    "description": "Ascendance is a Simonrim modlist for Skyrim. The goal of Ascendance is to improve gameplay in a challenging yet rewarding way using Simon Magus\u0027 series of overhauls, while staying true to the core Skyrim experience. Ascendance also includes a noticeable visual upgrade while still maintaining very high performance.",
+    "title": "Morning Star",
+    "description": "A simple Simonrim modlist.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -98,11 +98,8 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "Lightweight",
-      "Difficulty",
       "SimonRim",
       "Survival",
-      "Anniversary Edition",
       "Performance"
     ],
     "nsfw": false,
@@ -111,8 +108,8 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Ascendance/main/AscendanceTitle.webp",
-      "readme": "https://github.com/Ender108/Ascendance/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/main/Morning-Star-Title-Picture.webp",
+      "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_dbdcf0e3-f398-4e76-890f-fb2e3576554e",
       "machineURL": "ascendance",
       "discordURL": "https://discord.com/invite/WF66mMu"
