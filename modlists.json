@@ -3,10 +3,7 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": [
-      "github/GreatPadinski",
-      "GreatPadinski"
-    ],
+    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -46,10 +43,7 @@
     "title": "Ro",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": [
-      "github/ThirdEyeSqueegee",
-      "ThirdEyeSqueegee"
-    ],
+    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -86,45 +80,6 @@
     "version": "1.10.7",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-02-04T22:04:00.6033644Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "Morning Star",
-    "description": "A simple Simonrim modlist.",
-    "author": "Ender",
-    "maintainers": [
-      "github/Ender108"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "SimonRim",
-      "Survival",
-      "Performance"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/main/Morning-Star-Title-Picture.webp",
-      "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_b373e4df-2fc9-41c9-8a03-854be3fc85a6",
-      "machineURL": "ascendance",
-      "discordURL": "https://discord.com/invite/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "OmULyJvxjtA=",
-      "Size": 95597405,
-      "NumberOfArchives": 499,
-      "SizeOfArchives": 56040956914,
-      "NumberOfInstalledFiles": 69927,
-      "SizeOfInstalledFiles": 67589385214
-    },
-    "version": "1.0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-02-27T23:31:48.3237091Z",
     "repositoryName": ""
   }
 ]
