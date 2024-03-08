@@ -87,5 +87,47 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-03-04T21:25:33.0312345Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Winds of the North",
+    "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
+    "author": "colinswrath",
+    "maintainers": [
+      "github/colinswrath"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Anniversary Edition",
+      "Balanced",
+      "Creation Club",
+      "SimonRim",
+      "Vanilla Plus",
+      "Performance"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
+      "readme": "https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_adb30d63-8feb-410a-aaab-9d79e70dca2d",
+      "machineURL": "windsofthenorth",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "Hash": "JidnAPqFato=",
+      "Size": 144658394,
+      "NumberOfArchives": 640,
+      "SizeOfArchives": 50388028976,
+      "NumberOfInstalledFiles": 71745,
+      "SizeOfInstalledFiles": 63799407182
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-03-08T17:28:58.000Z",
+    "repositoryName": ""
   }
 ]
