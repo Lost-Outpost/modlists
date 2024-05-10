@@ -44,7 +44,7 @@
   },
   {
     "title": "Ro - A Graphics-Focused Modlist",
-    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy's ENB for NAT.",
+    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
     "maintainers": [
       "github/ThirdEyeSqueegee",
@@ -113,21 +113,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
       "readme": "https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_550c7790-010c-413d-869c-740b88e29036",
+      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_8eb05fd3-9cab-40d5-b314-b242cdd18834",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "OFaAvH6PzKs=",
-      "Size": 127409122,
-      "NumberOfArchives": 691,
-      "SizeOfArchives": 53055998419,
-      "NumberOfInstalledFiles": 71965,
-      "SizeOfInstalledFiles": 66577132819
+      "Hash": "EQK9X82Bjc8=",
+      "Size": 127262106,
+      "NumberOfArchives": 684,
+      "SizeOfArchives": 52771401725,
+      "NumberOfInstalledFiles": 70389,
+      "SizeOfInstalledFiles": 63997671832
     },
-    "version": "1.1.6",
+    "version": "1.1.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-02T18:22:37.9366706Z",
+    "dateUpdated": "2024-05-10T02:18:41.9503335Z",
     "repositoryName": ""
   }
 ]
