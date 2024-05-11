@@ -113,21 +113,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
       "readme": "https://github.com/colinswrath/WindsOfTheNorth/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_8eb05fd3-9cab-40d5-b314-b242cdd18834",
+      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_cbdb9414-9658-4a2d-b9cd-7941e34bc97a",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "EQK9X82Bjc8=",
-      "Size": 127262106,
+      "Hash": "/vaf4hPLXco=",
+      "Size": 127344144,
       "NumberOfArchives": 684,
-      "SizeOfArchives": 52771401725,
+      "SizeOfArchives": 52771401756,
       "NumberOfInstalledFiles": 70389,
-      "SizeOfInstalledFiles": 63997671832
+      "SizeOfInstalledFiles": 63998701106
     },
-    "version": "1.1.7",
+    "version": "1.1.8",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-10T02:18:41.9503335Z",
+    "dateUpdated": "2024-05-11T19:41:56.927191Z",
     "repositoryName": ""
   }
 ]
