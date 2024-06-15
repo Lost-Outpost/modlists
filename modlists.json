@@ -121,38 +121,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-05-31T18:50:40.2630203Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Squeegeepunk",
-    "description": "",
-    "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
-    "game": "cyberpunk",
-    "official": false,
-    "tags": ["Cyberpunk 2077"],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Squeegeepunk/main/assets/Squeegeepunk.webp",
-      "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
-      "download": "",
-      "machineURL": "squeegeepunk",
-      "discordURL": "https://discord.gg/WF66mMu"
-    },
-    "download_metadata": {
-      "Hash": "ORYwYYWtgbY=",
-      "Size": 374136,
-      "NumberOfArchives": 75,
-      "SizeOfArchives": 3320357071,
-      "NumberOfInstalledFiles": 2580,
-      "SizeOfInstalledFiles": 3688278430
-    },
-    "version": "1.0.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-13T00:18:01.8063985Z",
-    "repositoryName": ""
   }
 ]
