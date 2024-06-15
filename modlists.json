@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -43,7 +46,10 @@
     "title": "Ro - A Graphics-Focused Modlist",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -86,7 +92,9 @@
     "title": "Winds of the North",
     "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
     "author": "colinswrath",
-    "maintainers": ["github/colinswrath"],
+    "maintainers": [
+      "github/colinswrath"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -126,10 +134,15 @@
     "title": "Squeegeepunk",
     "description": "Placeholder",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
-    "game": "Cyberpunk2077",
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
+    "game": "cyberpunk2077",
     "official": false,
-    "tags": ["Cyberpunk 2077"],
+    "tags": [
+      "Cyberpunk 2077"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
@@ -138,21 +151,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Squeegeepunk/main/assets/Squeegeepunk.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_965523a0-1050-4481-bfac-f0f8eff7ed67",
+      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_31e5552f-1582-43b1-9e07-28f9424b9b77",
       "machineURL": "squeegeepunk",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "ORYwYYWtgbY=",
-      "Size": 374136,
+      "Hash": "ryTHVm3MpiM=",
+      "Size": 374039,
       "NumberOfArchives": 75,
       "SizeOfArchives": 3320357071,
       "NumberOfInstalledFiles": 2580,
-      "SizeOfInstalledFiles": 3688278430
+      "SizeOfInstalledFiles": 3688278429
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-13T00:18:01.8063985Z",
+    "dateUpdated": "2024-06-15T04:45:53.5092912Z",
     "repositoryName": ""
   }
 ]
