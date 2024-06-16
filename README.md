@@ -11,3 +11,5 @@ Ro is an attempt to bring together the latest and greatest graphics mods and foc
 Winds of the North is a modlist dedicated to enhancing Skyrim's gameplay and refining its visual aspects while also preserving the original game's aesthetic as much as possible. It features the full Simonrim suite of overhaul mods, introduces new content, quality of life changes, and fully integrates and rebalances many of the Anniversary Edition Creations, all designed to bring you a fresh but also familiar experience.
 
 **Squeegeepunk** by _ThirdEyeSqueegee_ - [Readme](https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md) - [Changelog](https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/CHANGELOG.md) - [Issues](https://github.com/ThirdEyeSqueegee/Squeegeepunk/issues)
+
+What it says on the tin. Squeegee's take on Cyberpunk--featuring graphics enhancements, gameplay and QoL tweaks, bugfixes, immersion mods, and more.
