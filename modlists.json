@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -43,7 +46,10 @@
     "title": "Ro - A Graphics-Focused Modlist",
     "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for NAT.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -86,7 +92,9 @@
     "title": "Winds of the North",
     "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
     "author": "colinswrath",
-    "maintainers": ["github/colinswrath"],
+    "maintainers": [
+      "github/colinswrath"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -124,12 +132,19 @@
   },
   {
     "title": "Squeegeepunk",
-    "description": "What it says on the tin. Squeegee's take on Cyberpunk--featuring graphics enhancements, gameplay and QoL tweaks, bugfixes, immersion mods, and more.",
+    "description": "What it says on the tin. Squeegee\u0027s take on Cyberpunk--featuring graphics enhancements, gameplay and QoL tweaks, bugfixes, immersion mods, and more.",
     "author": "ThirdEyeSqueegee",
-    "maintainers": ["github/ThirdEyeSqueegee", "ThirdEyeSqueegee"],
+    "maintainers": [
+      "github/ThirdEyeSqueegee",
+      "ThirdEyeSqueegee"
+    ],
     "game": "cyberpunk2077",
     "official": false,
-    "tags": ["Immersion", "Graphics", "Squeegeepunk"],
+    "tags": [
+      "Immersion",
+      "Graphics",
+      "Squeegeepunk"
+    ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
@@ -138,21 +153,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Squeegeepunk/main/assets/Squeegeepunk.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_5c24e1e9-e28a-44d3-9231-496c8a260786",
+      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_b44c5a16-9fa7-4cac-a3e0-8216a6367b54",
       "machineURL": "squeegeepunk",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "vwOuzM8xwiw=",
-      "Size": 487326,
-      "NumberOfArchives": 123,
-      "SizeOfArchives": 4133318302,
-      "NumberOfInstalledFiles": 3053,
-      "SizeOfInstalledFiles": 4526018316
+      "Hash": "MPEaXoUqZdg=",
+      "Size": 525456,
+      "NumberOfArchives": 135,
+      "SizeOfArchives": 4314941237,
+      "NumberOfInstalledFiles": 3129,
+      "SizeOfInstalledFiles": 4710458679
     },
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-16T05:36:48.1193447Z",
+    "dateUpdated": "2024-06-16T23:19:11.6660754Z",
     "repositoryName": ""
   }
 ]
