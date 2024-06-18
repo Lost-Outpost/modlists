@@ -153,21 +153,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Squeegeepunk/main/assets/Squeegeepunk.webp",
       "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_a38e8e5b-7f9b-4839-86b9-6436f88e6d6e",
+      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_0296dfc7-4276-488d-90c4-f83253c33dc9",
       "machineURL": "squeegeepunk",
       "discordURL": "https://discord.gg/WF66mMu"
     },
     "download_metadata": {
-      "Hash": "FzV+SSBnRP4=",
-      "Size": 539625,
-      "NumberOfArchives": 140,
-      "SizeOfArchives": 5009128425,
-      "NumberOfInstalledFiles": 3107,
-      "SizeOfInstalledFiles": 5407231468
+      "Hash": "ARVx9pSqx7o=",
+      "Size": 534471,
+      "NumberOfArchives": 138,
+      "SizeOfArchives": 5006194452,
+      "NumberOfInstalledFiles": 3081,
+      "SizeOfInstalledFiles": 5403290315
     },
-    "version": "1.0.6",
+    "version": "1.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-17T17:45:17.8342409Z",
+    "dateUpdated": "2024-06-18T01:13:48.2107568Z",
     "repositoryName": ""
   }
 ]
