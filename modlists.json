@@ -139,8 +139,9 @@
       "ThirdEyeSqueegee"
     ],
     "game": "cyberpunk2077",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Immersion",
       "Graphics",
       "Squeegeepunk"
