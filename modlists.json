@@ -170,5 +170,47 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-12-20T08:22:59.2320275Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Arcanaeum",
+    "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content that can be customized to your liking.",
+    "author": "guitarninja",
+    "maintainers": [
+      "github/guitarninja2"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Anniversary Edition",
+      "Balanced",
+      "Creation Club",
+      "SimonRim",
+      "Vanilla Plus",
+      "Performance"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1721927884-77198350.png",
+      "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_d7b6271b-3e12-4705-8228-00839a5d1048",
+      "machineURL": "arcanaeum",
+      "discordURL": "https://discord.gg/WF66mMu"
+    },
+    "download_metadata": {
+      "Hash": "afxm+XdG7Xg=",
+      "Size": 89575003,
+      "NumberOfArchives": 759,
+      "SizeOfArchives": 58484077637,
+      "NumberOfInstalledFiles": 72894,
+      "SizeOfInstalledFiles": 70540742648
+    },
+    "version": "1.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-02-14T20:55:17.9539337Z",
+    "repositoryName": ""
   }
 ]
