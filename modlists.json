@@ -27,7 +27,8 @@
       "readme": "https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
       "machineURL": "lostlegacy",
-      "discordURL": "https://discord.gg/WF66mMu"
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "gjCy0agpOqE=",
@@ -35,7 +36,8 @@
       "NumberOfArchives": 1422,
       "SizeOfArchives": 144616734350,
       "NumberOfInstalledFiles": 220226,
-      "SizeOfInstalledFiles": 222736971979
+      "SizeOfInstalledFiles": 222736971979,
+      "TotalSize": 367353706329
     },
     "version": "1.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -73,7 +75,8 @@
       "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_88a1648d-e3b0-4629-bd6f-274ed89ae0f1",
       "machineURL": "ro",
-      "discordURL": "https://discord.gg/WF66mMu"
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "7zUhHP2n8ys=",
@@ -81,7 +84,8 @@
       "NumberOfArchives": 3074,
       "SizeOfArchives": 161902020666,
       "NumberOfInstalledFiles": 178367,
-      "SizeOfInstalledFiles": 232043746875
+      "SizeOfInstalledFiles": 232043746875,
+      "TotalSize": 393945767541
     },
     "version": "2.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -115,7 +119,8 @@
       "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
       "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_d7b6271b-3e12-4705-8228-00839a5d1048",
       "machineURL": "windsofthenorth",
-      "discordURL": "https://discord.gg/WF66mMu"
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "afxm+XdG7Xg=",
@@ -123,7 +128,8 @@
       "NumberOfArchives": 759,
       "SizeOfArchives": 58484077637,
       "NumberOfInstalledFiles": 72894,
-      "SizeOfInstalledFiles": 70540742648
+      "SizeOfInstalledFiles": 70540742648,
+      "TotalSize": 129024820285
     },
     "version": "2.0.9",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -156,7 +162,8 @@
       "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_42e3fd86-26e5-45b6-8c4e-c5400bba466d",
       "machineURL": "squeegeepunk",
-      "discordURL": "https://discord.gg/WF66mMu"
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "z33UNWFDb4A=",
@@ -164,7 +171,8 @@
       "NumberOfArchives": 172,
       "SizeOfArchives": 4652603514,
       "NumberOfInstalledFiles": 4240,
-      "SizeOfInstalledFiles": 5162975027
+      "SizeOfInstalledFiles": 5162975027,
+      "TotalSize": 9815578541
     },
     "version": "1.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
@@ -196,21 +204,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1721927884-77198350.png",
       "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_9bb0e761-fb25-43da-8d46-4f2e298d2798",
+      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_5d0484d6-c537-44c8-b206-dde09f3c2654",
       "machineURL": "arcanaeum",
-      "discordURL": "https://discord.gg/WF66mMu"
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "K4aABUxsxZc=",
-      "Size": 229242362,
+      "Hash": "a4ji6uHfwV4=",
+      "Size": 229324273,
       "NumberOfArchives": 285,
-      "SizeOfArchives": 17809621748,
-      "NumberOfInstalledFiles": 74133,
-      "SizeOfInstalledFiles": 40604541845
+      "SizeOfArchives": 17810565556,
+      "NumberOfInstalledFiles": 74135,
+      "SizeOfInstalledFiles": 40608140228,
+      "TotalSize": 58418705784
     },
-    "version": "1.1.1",
+    "version": "1.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-19T16:25:14.0617624Z",
+    "dateUpdated": "2025-03-25T01:00:51.3794616Z",
     "repositoryName": ""
   }
 ]
