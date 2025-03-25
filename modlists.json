@@ -204,23 +204,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1721927884-77198350.png",
       "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_c96e70d4-a75d-4606-a7ac-c9da9b451cbb",
+      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_9b1a8a47-49d4-4733-80ce-689397474540",
       "machineURL": "arcanaeum",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "KKH4QAl5Nfk=",
-      "Size": 229324260,
-      "NumberOfArchives": 285,
-      "SizeOfArchives": 17810565556,
-      "NumberOfInstalledFiles": 74135,
-      "SizeOfInstalledFiles": 40608140228,
-      "TotalSize": 58418705784
+      "Hash": "VEvzw39zVgg=",
+      "Size": 232671361,
+      "NumberOfArchives": 273,
+      "SizeOfArchives": 17985626828,
+      "NumberOfInstalledFiles": 74063,
+      "SizeOfInstalledFiles": 40599972423,
+      "TotalSize": 58585599251
     },
-    "version": "1.1.2",
+    "version": "1.1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-25T01:01:56.568634Z",
+    "dateUpdated": "2025-03-25T17:36:16.7813229Z",
     "repositoryName": ""
   }
 ]
