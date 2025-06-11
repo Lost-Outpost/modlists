@@ -3,10 +3,7 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": [
-      "github/GreatPadinski",
-      "GreatPadinski"
-    ],
+    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -45,60 +42,10 @@
     "repositoryName": ""
   },
   {
-    "title": "Ro - A Graphics-Focused Modlist",
-    "description": "Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full Simonrim suite. It\u0027s intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (\u002B Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy\u0027s ENB for NAT.",
-    "author": "ThirdEyeSqueegee",
-    "maintainers": [
-      "github/ThirdEyeSqueegee",
-      "ThirdEyeSqueegee"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Official",
-      "Anniversary Edition",
-      "Balanced",
-      "Creation Club",
-      "SimonRim",
-      "NeverNude",
-      "Vanilla Plus",
-      "Visual Overhaul",
-      "Visuals"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Ro/main/assets/Ro.webp",
-      "readme": "https://github.com/ThirdEyeSqueegee/Ro/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Ro - A Graphics-Focused Modlist.wabbajack_88a1648d-e3b0-4629-bd6f-274ed89ae0f1",
-      "machineURL": "ro",
-      "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "7zUhHP2n8ys=",
-      "Size": 58594215,
-      "NumberOfArchives": 3074,
-      "SizeOfArchives": 161902020666,
-      "NumberOfInstalledFiles": 178367,
-      "SizeOfInstalledFiles": 232043746875,
-      "TotalSize": 393945767541
-    },
-    "version": "2.3.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-08T06:28:18.7354269Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Winds of the North",
     "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
     "author": "colinswrath",
-    "maintainers": [
-      "github/colinswrath"
-    ],
+    "maintainers": ["github/colinswrath"],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -137,55 +84,10 @@
     "repositoryName": ""
   },
   {
-    "title": "Squeegeepunk",
-    "description": "What it says on the tin. Squeegee\u0027s take on Cyberpunk--featuring graphics enhancements, gameplay and QoL tweaks, bugfixes, immersion mods, and more.",
-    "author": "ThirdEyeSqueegee",
-    "maintainers": [
-      "github/ThirdEyeSqueegee",
-      "ThirdEyeSqueegee"
-    ],
-    "game": "cyberpunk2077",
-    "official": true,
-    "tags": [
-      "Official",
-      "Immersion",
-      "Graphics",
-      "Squeegeepunk"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/ThirdEyeSqueegee/Squeegeepunk/main/assets/Squeegeepunk.webp",
-      "readme": "https://github.com/ThirdEyeSqueegee/Squeegeepunk/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Squeegeepunk.wabbajack_42e3fd86-26e5-45b6-8c4e-c5400bba466d",
-      "machineURL": "squeegeepunk",
-      "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "z33UNWFDb4A=",
-      "Size": 611900,
-      "NumberOfArchives": 172,
-      "SizeOfArchives": 4652603514,
-      "NumberOfInstalledFiles": 4240,
-      "SizeOfInstalledFiles": 5162975027,
-      "TotalSize": 9815578541
-    },
-    "version": "1.1.2",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-12-20T08:22:59.2320275Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Arcanaeum",
     "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
     "author": "guitarninja",
-    "maintainers": [
-      "github/guitarninja2"
-    ],
+    "maintainers": ["github/guitarninja2"],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
