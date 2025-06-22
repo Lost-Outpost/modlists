@@ -103,7 +103,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Lost-Outpost/Telsera/refs/heads/main/images/0.0%20TELSERA.png",
+      "image": "https://github.com/Lost-Outpost/Telsera/blob/ccdd4561aa84254372d21ff0ab8127d39e022cd1/images/0.0%20TELSERA.png",
       "readme": "https://github.com/Lost-Outpost/Telsera",
       "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_3d39793a-f254-4cea-93e2-a787ada222db",
       "machineURL": "telsera",
