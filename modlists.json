@@ -84,6 +84,48 @@
     "repositoryName": ""
   },
   {
+    "title": "Telsera",
+    "description": "An adult-oriented (18+) Wabbajack list utilizing SSE's Anniversary Edition upgrade. The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself.",
+    "author": "Foamimi",
+    "maintainers": ["github/foamimi"],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "NSFW",
+      "Anniversary Edition",
+      "Creation Club",
+      "SimonRim",
+      "Performance",
+	    "Unofficial"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/Telsera/refs/heads/main/images/0.0%20TELSERA.png",
+      "readme": "https://github.com/Lost-Outpost/Telsera",
+      "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_3d39793a-f254-4cea-93e2-a787ada222db",
+      "machineURL": "telsera",
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "VqThOOon/rs=",
+      "Size": 81569864,
+      "NumberOfArchives": 1443,
+      "SizeOfArchives": 73261920088,
+      "NumberOfInstalledFiles": 191840,
+      "SizeOfInstalledFiles": 122895776772,
+      "TotalSize": 196157696860
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-06-22T20:55:17.9539337Z",
+    "repositoryName": ""
+  },
+  {
     "title": "Arcanaeum",
     "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
     "author": "guitarninja",
