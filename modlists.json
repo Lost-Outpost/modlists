@@ -94,9 +94,9 @@
       "NSFW",
       "Anniversary Edition",
       "Creation Club",
+      "Balanced",
       "SimonRim",
-      "OStim",
-      "Performance"
+      "OStim"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -106,23 +106,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/Telsera/refs/heads/main/images/0.0%20TELSERA.webp",
       "readme": "https://github.com/Lost-Outpost/Telsera",
-      "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_7abf53ab-3769-4542-89c0-7e01221126e7",
+      "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_0a2541b8-63e7-4128-87b0-81d15131783f",
       "machineURL": "telsera",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "sikEwb1h6Q8=",
-      "Size": 337593591,
+      "Hash": "EKARqCXaVac=",
+      "Size": 337594094,
       "NumberOfArchives": 1782,
       "SizeOfArchives": 79864765858,
-      "NumberOfInstalledFiles": 191719,
-      "SizeOfInstalledFiles": 124209866236,
-      "TotalSize": 204074632094
+      "NumberOfInstalledFiles": 191720,
+      "SizeOfInstalledFiles": 124209867148,
+      "TotalSize": 204074633006
     },
-    "version": "1.2.0",
+    "version": "1.2.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-20T20:55:17.9539337Z",
+    "dateUpdated": "2025-09-21T20:55:17.9539337Z",
     "repositoryName": ""
   },
   {
@@ -168,4 +168,5 @@
     "repositoryName": ""
   }
 ]
+
 
