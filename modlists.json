@@ -106,23 +106,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/Telsera/refs/heads/main/images/0.0%20TELSERA.webp",
       "readme": "https://github.com/Lost-Outpost/Telsera",
-      "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_0a2541b8-63e7-4128-87b0-81d15131783f",
+      "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_7050cab0-2987-44fb-b0f9-a87b3b61b64f",
       "machineURL": "telsera",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "EKARqCXaVac=",
-      "Size": 337594094,
-      "NumberOfArchives": 1782,
-      "SizeOfArchives": 79864765858,
-      "NumberOfInstalledFiles": 191720,
-      "SizeOfInstalledFiles": 124209867148,
-      "TotalSize": 204074633006
+      "Hash": "AbpbJGloKhU=",
+      "Size": 335093477,
+      "NumberOfArchives": 1795,
+      "SizeOfArchives": 79966914821,
+      "NumberOfInstalledFiles": 191787,
+      "SizeOfInstalledFiles": 124354041912,
+      "TotalSize": 204320956733
     },
-    "version": "1.2.0.1",
+    "version": "1.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-21T20:55:17.9539337Z",
+    "dateUpdated": "2025-09-28T20:55:17.9539337Z",
     "repositoryName": ""
   },
   {
@@ -168,5 +168,6 @@
     "repositoryName": ""
   }
 ]
+
 
 
