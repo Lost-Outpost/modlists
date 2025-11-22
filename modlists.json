@@ -3,7 +3,10 @@
     "title": "Lost Legacy",
     "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
     "author": "GreatPadinski",
-    "maintainers": ["github/GreatPadinski", "GreatPadinski"],
+    "maintainers": [
+      "github/GreatPadinski",
+      "GreatPadinski"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -45,7 +48,9 @@
     "title": "Winds of the North",
     "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
     "author": "colinswrath",
-    "maintainers": ["github/colinswrath"],
+    "maintainers": [
+      "github/colinswrath"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -64,30 +69,32 @@
     "links": {
       "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
       "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
-      "download": "https://authored-files.wabbajack.org/Winds of the North.wabbajack_d7b6271b-3e12-4705-8228-00839a5d1048",
+      "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_9d508d3b-51a4-4a93-bda2-958c03b1f3ae",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "afxm+XdG7Xg=",
-      "Size": 89575003,
-      "NumberOfArchives": 759,
-      "SizeOfArchives": 58484077637,
-      "NumberOfInstalledFiles": 72894,
-      "SizeOfInstalledFiles": 70540742648,
-      "TotalSize": 129024820285
+      "Hash": "oMbDR6MCXr8=",
+      "Size": 152812520,
+      "NumberOfArchives": 713,
+      "SizeOfArchives": 51789801863,
+      "NumberOfInstalledFiles": 93633,
+      "SizeOfInstalledFiles": 62761971399,
+      "TotalSize": 114551773262
     },
-    "version": "2.0.9",
+    "version": "3.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-14T20:55:17.9539337Z",
+    "dateUpdated": "2025-11-22T17:39:32.4027457Z",
     "repositoryName": ""
   },
   {
     "title": "Telsera",
-    "description": "An adult-oriented (18+) Wabbajack list utilizing SSE's Anniversary Edition upgrade. The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don't stray too far from the game itself.",
+    "description": "An adult-oriented (18\u002B) Wabbajack list utilizing SSE\u0027s Anniversary Edition upgrade. The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don\u0027t stray too far from the game itself.",
     "author": "Foamimi",
-    "maintainers": ["github/foamimi"],
+    "maintainers": [
+      "github/foamimi"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -129,7 +136,9 @@
     "title": "Arcanaeum",
     "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
     "author": "guitarninja",
-    "maintainers": ["github/guitarninja2"],
+    "maintainers": [
+      "github/guitarninja2"
+    ],
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
@@ -168,6 +177,3 @@
     "repositoryName": ""
   }
 ]
-
-
-
