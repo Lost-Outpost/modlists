@@ -135,7 +135,7 @@
   },
   {
     "title": "Arcanaeum",
-    "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
+    "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated. It is designed to keep the vanilla art style and run well even on lower end systems while still looking great.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -177,4 +177,5 @@
     "dateUpdated": "2026-01-11T18:59:28.9426051Z",
     "repositoryName": ""
   }
+
 ]
