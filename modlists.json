@@ -158,23 +158,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1767211129-765763580.png",
       "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_0e3e919f-d0fb-427a-9836-a7b83caaef9c",
+      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_67c92804-5355-4ccc-8736-f6596c8ffce7",
       "machineURL": "arcanaeum",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/125198"
     },
     "download_metadata": {
-      "Hash": "BR7NhOLyJDo=",
-      "Size": 286722847,
+      "Hash": "cI+xUogGakU=",
+      "Size": 286722878,
       "NumberOfArchives": 299,
       "SizeOfArchives": 32776941756,
       "NumberOfInstalledFiles": 67333,
-      "SizeOfInstalledFiles": 48606027570,
-      "TotalSize": 81382969326
+      "SizeOfInstalledFiles": 48606027660,
+      "TotalSize": 81382969416
     },
-    "version": "1.4.1",
+    "version": "1.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-12T15:38:08.2220569Z",
+    "dateUpdated": "2026-01-12T15:46:25.9707454Z",
     "repositoryName": ""
   }
 ]
