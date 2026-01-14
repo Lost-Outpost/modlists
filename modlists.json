@@ -94,7 +94,7 @@
     "description": "An adult-oriented (18\u002B) Wabbajack list utilizing SSE\u0027s Anniversary Edition upgrade. The vision behind Telsera is primarily focused on performance-friendly visuals while retaining a consistent, stable, and engaging environment, as well as gameplay and mature narratives that don\u0027t stray too far from the game itself.",
     "author": "Foamimi",
     "maintainers": [
-      "github/foamimi"
+      "github/Foamimi"
     ],
     "game": "skyrimspecialedition",
     "official": false,
@@ -178,3 +178,4 @@
     "repositoryName": ""
   }
 ]
+
