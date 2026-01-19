@@ -176,5 +176,48 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-01-16T01:02:46.4784623Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Dragonborn",
+    "description": "Dragonborn is a minimalist modlist with the absolute bare minimum gameplay, engine and visual changes for every skyrim playthrough. Featuring mostly upscaled vanilla textures and lightly modded gameplay, this list is perfect for new players and those who often find themselves restarting their game when mods change.",
+    "author": "guitarninja",
+    "maintainers": [
+      "github/guitarninja2"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Anniversary Edition",
+      "Balanced",
+      "Creation Club",
+      "Vanilla Plus",
+      "Performance"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1768587221-269438515.png",
+      "readme": "https://github.com/Lost-Outpost/dragonborn/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_2697ba39-73bf-4516-aac1-21d9a448f394",
+      "machineURL": "dragonborn",
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/169915"
+    },
+    "download_metadata": {
+      "Hash": "d3qOem6EZ6U=",
+      "Size": 291512806,
+      "NumberOfArchives": 298,
+      "SizeOfArchives": 33036462280,
+      "NumberOfInstalledFiles": 67472,
+      "SizeOfInstalledFiles": 49242768796,
+      "TotalSize": 82279231076
+    },
+    "version": "1.4.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-01-16T01:02:46.4784623Z",
+    "repositoryName": ""
   }
 ]
