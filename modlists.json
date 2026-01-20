@@ -156,7 +156,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1768243961-694531496.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1768926354-1670421632.png",
       "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_2697ba39-73bf-4516-aac1-21d9a448f394",
       "machineURL": "arcanaeum",
@@ -220,4 +220,5 @@
     "dateUpdated": "2026-01-20T02:13:35.1213901Z",
     "repositoryName": ""
   }
+
 ]
