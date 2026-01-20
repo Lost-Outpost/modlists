@@ -219,5 +219,47 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-01-20T02:13:35.1213901Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Simonrim Essentials",
+    "description": "Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup built of off Simon Magus' series of gameplay overhauls that they can easily add on to.",
+    "author": "Ender",
+    "maintainers": [
+      "github/Ender108"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Steam",
+      "Simonrim",
+      "Utility",
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplash.webp",
+      "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_536d7d97-2545-46e6-8b89-8ccdd69e0fd1",
+      "machineURL": "simonrimessentials",
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857"
+    },
+    "download_metadata": {
+      "Hash": "JUGVgNHaeoo=",
+      "Size": 104727522,
+      "NumberOfArchives": 246,
+      "SizeOfArchives": 18645051128,
+      "NumberOfInstalledFiles": 11446,
+      "SizeOfInstalledFiles": 21116486481,
+      "TotalSize": 39761537609
+    },
+    "version": "1.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-01-20T17:34:17.000Z",
+    "repositoryName": ""
   }
+  
 ]
