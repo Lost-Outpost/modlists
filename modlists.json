@@ -201,28 +201,28 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1768587221-269438515.png",
       "readme": "https://github.com/Lost-Outpost/dragonborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_05cfdab5-95db-471e-8f9c-d267669eceda",
+      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_40dd641c-179a-43c7-9d0d-a491c5988e86",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/169915"
     },
     "download_metadata": {
-      "Hash": "6HksUPp1muo=",
-      "Size": 189135849,
-      "NumberOfArchives": 144,
-      "SizeOfArchives": 22367752350,
-      "NumberOfInstalledFiles": 23069,
-      "SizeOfInstalledFiles": 32448066595,
-      "TotalSize": 54815818945
+      "Hash": "UVfteHkza1g=",
+      "Size": 189135977,
+      "NumberOfArchives": 143,
+      "SizeOfArchives": 22315957521,
+      "NumberOfInstalledFiles": 23046,
+      "SizeOfInstalledFiles": 32446317997,
+      "TotalSize": 54762275518
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-20T02:13:35.1213901Z",
+    "dateUpdated": "2026-01-20T20:55:50.19605Z",
     "repositoryName": ""
   },
   {
     "title": "Simonrim Essentials",
-    "description": "Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup built of off Simon Magus' series of gameplay overhauls that they can easily add on to.",
+    "description": "Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup built of off Simon Magus\u0027 series of gameplay overhauls that they can easily add on to.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -258,7 +258,7 @@
     },
     "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-20T17:34:17.000Z",
+    "dateUpdated": "2026-01-20T17:34:17Z",
     "repositoryName": ""
   }
 ]
