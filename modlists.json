@@ -179,7 +179,7 @@
   },
   {
     "title": "Dragonborn",
-    "description": "Dragonborn is a lightweight Skyrim modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
+    "description": "Dragonborn is a lightweight Skyrim modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -222,7 +222,7 @@
   },
   {
     "title": "The Path",
-    "description": "The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
+    "description": "The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -242,23 +242,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png",
       "readme": "https://github.com/Lost-Outpost/thepath/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_d3df0bce-b379-4124-9c8f-e6dce82ac125",
+      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_ac338464-8ac2-4472-83a9-14fcbc7e1f2d",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
     },
     "download_metadata": {
-      "Hash": "1YIxcl5FTOI=",
-      "Size": 266963081,
-      "NumberOfArchives": 173,
-      "SizeOfArchives": 25502772109,
-      "NumberOfInstalledFiles": 29947,
-      "SizeOfInstalledFiles": 32737880183,
-      "TotalSize": 58240652292
+      "Hash": "kQDK4FuoToc=",
+      "Size": 411516003,
+      "NumberOfArchives": 133,
+      "SizeOfArchives": 29733973037,
+      "NumberOfInstalledFiles": 27556,
+      "SizeOfInstalledFiles": 28561485036,
+      "TotalSize": 58295458073
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-21T18:23:55.1125288Z",
+    "dateUpdated": "2026-01-21T23:06:45.1417626Z",
     "repositoryName": ""
   },
   {
@@ -302,6 +302,4 @@
     "dateUpdated": "2026-01-21T01:04:25.2116259Z",
     "repositoryName": ""
   }
-
 ]
-
