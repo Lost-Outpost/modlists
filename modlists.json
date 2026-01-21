@@ -179,7 +179,7 @@
   },
   {
     "title": "Dragonborn",
-    "description": "Dragonborn is a minimalist modlist with the absolute bare minimum gameplay, engine and visual changes for every skyrim playthrough. Featuring mostly upscaled vanilla textures and lightly modded gameplay, this list is perfect for new players and those who often find themselves restarting their game when mods change.",
+    "description": "Dragonborn is a lightweight Skyrim modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -304,3 +304,4 @@
   }
 
 ]
+
