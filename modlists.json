@@ -222,7 +222,7 @@
   },
   {
     "title": "The Path",
-    "description": "The Path is a lightweight modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking.",
+    "description": "The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -302,4 +302,5 @@
     "dateUpdated": "2026-01-21T01:04:25.2116259Z",
     "repositoryName": ""
   }
+
 ]
