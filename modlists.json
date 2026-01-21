@@ -240,7 +240,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplash.webp",
+      "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplashPage.webp",
       "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_ef9e6119-f01a-406f-b6b0-ab4c8da2f128",
       "machineURL": "simonrimessentials",
@@ -261,4 +261,5 @@
     "dateUpdated": "2026-01-21T01:04:25.2116259Z",
     "repositoryName": ""
   }
+
 ]
