@@ -240,7 +240,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1768587221-269438515.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png",
       "readme": "https://github.com/Lost-Outpost/thepath/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/The Path.wabbajack_715c0daa-35c6-4c1c-8a3d-67fe6fb53925",
       "machineURL": "thepath",
@@ -302,4 +302,5 @@
     "dateUpdated": "2026-01-21T01:04:25.2116259Z",
     "repositoryName": ""
   }
+
 ]
