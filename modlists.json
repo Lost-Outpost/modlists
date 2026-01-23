@@ -134,90 +134,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Dragonborn",
-    "description": "Dragonborn is a lightweight Skyrim modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
-    "author": "guitarninja",
-    "maintainers": [
-      "github/guitarninja2"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Anniversary Edition",
-      "Balanced",
-      "Creation Club",
-      "Vanilla Plus",
-      "Performance"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1769034382-221096788.png",
-      "readme": "https://github.com/Lost-Outpost/dragonborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_b3a23085-cbe6-4cc4-8ece-0055487e44f2",
-      "machineURL": "dragonborn",
-      "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/169915"
-    },
-    "download_metadata": {
-      "Hash": "+jsKMkGyKDI=",
-      "Size": 188789809,
-      "NumberOfArchives": 139,
-      "SizeOfArchives": 26253202391,
-      "NumberOfInstalledFiles": 23342,
-      "SizeOfInstalledFiles": 37207498608,
-      "TotalSize": 63460700999
-    },
-    "version": "1.0.3",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-23T03:40:48.6644504Z",
-    "repositoryName": ""
-  },
-  {
-    "title": "The Path",
-    "description": "The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
-    "author": "guitarninja",
-    "maintainers": [
-      "github/guitarninja2"
-    ],
-    "game": "enderalspecialedition",
-    "official": true,
-    "tags": [
-      "Balanced",
-      "Vanilla Plus",
-      "Performance"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png",
-      "readme": "https://github.com/Lost-Outpost/thepath/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_ac338464-8ac2-4472-83a9-14fcbc7e1f2d",
-      "machineURL": "thepath",
-      "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
-    },
-    "download_metadata": {
-      "Hash": "kQDK4FuoToc=",
-      "Size": 411516003,
-      "NumberOfArchives": 133,
-      "SizeOfArchives": 29733973037,
-      "NumberOfInstalledFiles": 27556,
-      "SizeOfInstalledFiles": 28561485036,
-      "TotalSize": 58295458073
-    },
-    "version": "1.0.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-21T23:06:45.1417626Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Simonrim Essentials",
     "description": "Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup built of off Simon Magus\u0027 series of gameplay overhauls that they can easily add on to.",
     "author": "Ender",
@@ -258,4 +174,5 @@
     "dateUpdated": "2026-01-22T13:14:14.6619424Z",
     "repositoryName": ""
   }
+
 ]
