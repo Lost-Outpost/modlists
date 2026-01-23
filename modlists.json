@@ -155,7 +155,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1768587221-269438515.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1769034382-221096788.png",
       "readme": "https://github.com/Lost-Outpost/dragonborn/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_4cee268f-1bfe-44d6-9ae4-f2007cd09dfb",
       "machineURL": "dragonborn",
@@ -258,4 +258,5 @@
     "dateUpdated": "2026-01-22T13:14:14.6619424Z",
     "repositoryName": ""
   }
+
 ]
