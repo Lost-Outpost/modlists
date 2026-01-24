@@ -134,6 +134,46 @@
     "repositoryName": ""
   },
   {
+    "title": "Septimus",
+    "description": "Septimus is an extensive modlist full of carefully chosen new gear, spells, quests, and personal touches, all designed to fit seamlessly into the game. It contains optional lightweight survival and full anniversary edition creation club integration. It's designed to look beautiful while maintaining a stable framerate on almost any machine.",
+    "author": "Guitarninja",
+    "maintainers": [
+      "github/guitarninja2"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "EnaiRim",
+      "LotD"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/170600/170600-1769207735-1053892666.png",
+      "readme": "https://github.com/Lost-Outpost/septimus/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
+      "machineURL": "septimus",
+      "discordURL": "https://discord.gg/WF66mMu",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "gjCy0agpOqE=",
+      "Size": 355589078,
+      "NumberOfArchives": 1422,
+      "SizeOfArchives": 144616734350,
+      "NumberOfInstalledFiles": 220226,
+      "SizeOfInstalledFiles": 222736971979,
+      "TotalSize": 367353706329
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-18T18:45:33.752155Z",
+    "repositoryName": ""
+  },
+  {
     "title": "The Path",
     "description": "The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
@@ -217,5 +257,6 @@
   }
 
 ]
+
 
 
