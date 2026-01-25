@@ -154,23 +154,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/170600/170600-1769207735-1053892666.png",
       "readme": "https://github.com/Lost-Outpost/septimus/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_49005330-01cd-4af8-b8dd-14199c609f76",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_18694c04-77d9-4419-9a94-7e743e48cc59",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Awos+p9kKMI=",
-      "Size": 264961039,
-      "NumberOfArchives": 363,
-      "SizeOfArchives": 47240939366,
-      "NumberOfInstalledFiles": 82763,
-      "SizeOfInstalledFiles": 67222266538,
-      "TotalSize": 114463205904
+      "Hash": "3x/0wrQNt3o=",
+      "Size": 264963934,
+      "NumberOfArchives": 368,
+      "SizeOfArchives": 47253835525,
+      "NumberOfInstalledFiles": 82817,
+      "SizeOfInstalledFiles": 67275368852,
+      "TotalSize": 114529204377
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-24T20:45:31.2462164Z",
+    "dateUpdated": "2026-01-25T00:59:26.4418884Z",
     "repositoryName": ""
   },
   {
