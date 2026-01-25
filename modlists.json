@@ -152,7 +152,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/170600/170600-1769207735-1053892666.png",
+      "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/refs/heads/main/images/logo.webp",
       "readme": "https://github.com/Lost-Outpost/septimus/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_18694c04-77d9-4419-9a94-7e743e48cc59",
       "machineURL": "septimus",
@@ -257,4 +257,5 @@
   }
 
 ]
+
 
