@@ -198,23 +198,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png",
       "readme": "https://github.com/Lost-Outpost/thepath/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_a4d56375-c51d-4101-bfdf-dfd42a4e34fb",
+      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_298f0a09-7a7b-45a4-860f-f12b91220750",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
     },
     "download_metadata": {
-      "Hash": "VlKnU0+VXYI=",
-      "Size": 532694689,
+      "Hash": "dm89NXMYQVg=",
+      "Size": 532698534,
       "NumberOfArchives": 117,
       "SizeOfArchives": 29674441625,
       "NumberOfInstalledFiles": 27463,
-      "SizeOfInstalledFiles": 28563813825,
-      "TotalSize": 58238255450
+      "SizeOfInstalledFiles": 28563854368,
+      "TotalSize": 58238295993
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-28T00:45:20.6918171Z",
+    "dateUpdated": "2026-01-30T19:18:38.9923202Z",
     "repositoryName": ""
   },
   {
