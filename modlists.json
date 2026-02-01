@@ -239,23 +239,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/constellation/refs/heads/main/images/logo.webp",
       "readme": "https://github.com/Lost-Outpost/constellation/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_c9bcb454-2f7f-4ead-9b55-2441fc297e61",
+      "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_54736dd6-bef9-4e68-94ad-4596c33afb12",
       "machineURL": "constellation",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/starfield/mods/15953"
     },
     "download_metadata": {
-      "Hash": "UEM9drgOTZI=",
-      "Size": 11678682,
+      "Hash": "aDgLtCaYrhg=",
+      "Size": 11677294,
       "NumberOfArchives": 45,
-      "SizeOfArchives": 433014212,
-      "NumberOfInstalledFiles": 2692,
-      "SizeOfInstalledFiles": 1055518984,
-      "TotalSize": 1488533196
+      "SizeOfArchives": 435255703,
+      "NumberOfInstalledFiles": 2647,
+      "SizeOfInstalledFiles": 1054765339,
+      "TotalSize": 1490021042
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-01T15:09:53.2814307Z",
+    "dateUpdated": "2026-02-01T16:00:31.3374303Z",
     "repositoryName": ""
   },
   {
