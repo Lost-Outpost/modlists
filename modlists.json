@@ -219,7 +219,7 @@
   },
   {
     "title": "Constellation",
-    "description": "Constellation is a lightweight Starfield modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
+    "description": "Constellation is a lightweight Starfield modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It\u0027s intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.",
     "author": "guitarninja",
     "maintainers": [
       "github/guitarninja2"
@@ -239,23 +239,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/4187/images/15953/15953-1769894601-1274798269.png",
       "readme": "https://github.com/Lost-Outpost/constellation/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/The Path.wabbajack_298f0a09-7a7b-45a4-860f-f12b91220750",
+      "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_be124298-b9ad-4493-a7cd-1e927b35862e",
       "machineURL": "constellation",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/starfield/mods/15953"
     },
     "download_metadata": {
-      "Hash": "dm89NXMYQVg=",
-      "Size": 532698534,
-      "NumberOfArchives": 117,
-      "SizeOfArchives": 29674441625,
-      "NumberOfInstalledFiles": 27463,
-      "SizeOfInstalledFiles": 28563854368,
-      "TotalSize": 58238295993
+      "Hash": "o3qlTKYrw7A=",
+      "Size": 852173,
+      "NumberOfArchives": 44,
+      "SizeOfArchives": 411091165,
+      "NumberOfInstalledFiles": 2441,
+      "SizeOfInstalledFiles": 918194453,
+      "TotalSize": 1329285618
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-30T19:18:38.9923202Z",
+    "dateUpdated": "2026-02-01T02:49:03.6062954Z",
     "repositoryName": ""
   },
   {
@@ -299,5 +299,4 @@
     "dateUpdated": "2026-01-22T13:14:14.6619424Z",
     "repositoryName": ""
   }
-
 ]
