@@ -199,23 +199,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/dragonborn/refs/heads/main/images/logo.webp",
       "readme": "https://github.com/Lost-Outpost/dragonborn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_3d03ed10-2c10-4105-8970-acbcbcbaf7b0",
+      "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_6091b5ea-1351-4f55-aa9a-24553597a22d",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604"
     },
     "download_metadata": {
-      "Hash": "T6PbYTv6/7I=",
-      "Size": 158617735,
+      "Hash": "d8buiwZzVW4=",
+      "Size": 158619758,
       "NumberOfArchives": 67,
       "SizeOfArchives": 21837322376,
-      "NumberOfInstalledFiles": 41688,
-      "SizeOfInstalledFiles": 31717851213,
-      "TotalSize": 53555173589
+      "NumberOfInstalledFiles": 41689,
+      "SizeOfInstalledFiles": 31717869589,
+      "TotalSize": 53555191965
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-05T00:16:24.334513Z",
+    "dateUpdated": "2026-02-07T16:08:06.3830215Z",
     "repositoryName": ""
   },
   {
