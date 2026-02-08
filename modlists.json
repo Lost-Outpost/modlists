@@ -157,23 +157,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Lost-Outpost/septimus/refs/heads/main/images/logo.webp",
       "readme": "https://github.com/Lost-Outpost/septimus/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_5ed0f3f8-5052-4e2d-9bb9-8ecdd15b11f7",
+      "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_f970dd06-7b87-4f24-ba21-2593980c722e",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600"
     },
     "download_metadata": {
-      "Hash": "Psa3nq33CFQ=",
-      "Size": 332658748,
+      "Hash": "0M7gu1yEstY=",
+      "Size": 332770316,
       "NumberOfArchives": 362,
       "SizeOfArchives": 47202843256,
       "NumberOfInstalledFiles": 81543,
-      "SizeOfInstalledFiles": 66832001688,
-      "TotalSize": 114034844944
+      "SizeOfInstalledFiles": 66833523168,
+      "TotalSize": 114036366424
     },
-    "version": "1.0.15",
+    "version": "1.0.16",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-07T03:50:38.67714Z",
+    "dateUpdated": "2026-02-08T16:28:17.193476Z",
     "repositoryName": ""
   },
   {
