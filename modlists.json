@@ -28,8 +28,7 @@
       "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
       "machineURL": "lostlegacy",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "",
-      "nexusCollection": null
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "gjCy0agpOqE=",
@@ -74,8 +73,7 @@
       "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_6e41a6ef-d286-491a-bbfa-363bcc8099da",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
-      "nexusCollection": null
+      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/"
     },
     "download_metadata": {
       "Hash": "qFkNyGQ5IRM=",
@@ -119,8 +117,7 @@
       "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_ac493454-5150-437b-8a29-ba90ae5f373b",
       "machineURL": "telsera",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "",
-      "nexusCollection": null
+      "websiteURL": ""
     },
     "download_metadata": {
       "Hash": "b14n++nOM4c=",
@@ -163,13 +160,7 @@
       "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_6436169d-3e3d-49a2-a94f-36277409b97c",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600",
-      "nexusCollection": {
-        "collectionId": 408159,
-        "slug": "ohpypa",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600"
     },
     "download_metadata": {
       "Hash": "ffcbD6HUk1I=",
@@ -211,13 +202,7 @@
       "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_6091b5ea-1351-4f55-aa9a-24553597a22d",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604",
-      "nexusCollection": {
-        "collectionId": 408167,
-        "slug": "a2euof",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604"
     },
     "download_metadata": {
       "Hash": "d8buiwZzVW4=",
@@ -258,8 +243,7 @@
       "download": "https://authored-files.wabbajack.org/The Path.wabbajack_298f0a09-7a7b-45a4-860f-f12b91220750",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635",
-      "nexusCollection": null
+      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
     },
     "download_metadata": {
       "Hash": "dm89NXMYQVg=",
@@ -300,8 +284,7 @@
       "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_54736dd6-bef9-4e68-94ad-4596c33afb12",
       "machineURL": "constellation",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953",
-      "nexusCollection": null
+      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953"
     },
     "download_metadata": {
       "Hash": "aDgLtCaYrhg=",
@@ -339,24 +322,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplashPage.webp",
       "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_346ae8e4-7d15-44b2-9aa9-a16902a3351d",
+      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_e2dddc5f-8aea-4d9f-8992-fe7877af78ed",
       "machineURL": "simonrimessentials",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857",
-      "nexusCollection": null
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857"
     },
     "download_metadata": {
-      "Hash": "u8deD5jiNZo=",
-      "Size": 105438915,
-      "NumberOfArchives": 243,
-      "SizeOfArchives": 18620398435,
-      "NumberOfInstalledFiles": 19995,
-      "SizeOfInstalledFiles": 21222393901,
-      "TotalSize": 39842792336
+      "Hash": "QrgV5bF5zZc=",
+      "Size": 105417250,
+      "NumberOfArchives": 232,
+      "SizeOfArchives": 17625613653,
+      "NumberOfInstalledFiles": 19657,
+      "SizeOfInstalledFiles": 19916395928,
+      "TotalSize": 37542009581
     },
-    "version": "1.0.4",
+    "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-01-22T13:14:14.6619424Z",
+    "dateUpdated": "2026-02-09T21:18:52.9801716Z",
     "repositoryName": ""
   }
 ]
