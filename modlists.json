@@ -212,7 +212,12 @@
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": 408167,
+        "slug": "a2euof",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "d8buiwZzVW4=",
