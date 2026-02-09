@@ -28,7 +28,8 @@
       "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
       "machineURL": "lostlegacy",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "gjCy0agpOqE=",
@@ -73,7 +74,8 @@
       "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_6e41a6ef-d286-491a-bbfa-363bcc8099da",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/"
+      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "qFkNyGQ5IRM=",
@@ -117,7 +119,8 @@
       "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_ac493454-5150-437b-8a29-ba90ae5f373b",
       "machineURL": "telsera",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "b14n++nOM4c=",
@@ -160,7 +163,13 @@
       "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_6436169d-3e3d-49a2-a94f-36277409b97c",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600",
+      "nexusCollection": {
+        "collectionId": 408159,
+        "slug": "ohpypa",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "ffcbD6HUk1I=",
@@ -202,7 +211,8 @@
       "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_6091b5ea-1351-4f55-aa9a-24553597a22d",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "d8buiwZzVW4=",
@@ -243,7 +253,8 @@
       "download": "https://authored-files.wabbajack.org/The Path.wabbajack_298f0a09-7a7b-45a4-860f-f12b91220750",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
+      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "dm89NXMYQVg=",
@@ -284,7 +295,8 @@
       "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_54736dd6-bef9-4e68-94ad-4596c33afb12",
       "machineURL": "constellation",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953"
+      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "aDgLtCaYrhg=",
@@ -325,7 +337,8 @@
       "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_346ae8e4-7d15-44b2-9aa9-a16902a3351d",
       "machineURL": "simonrimessentials",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "u8deD5jiNZo=",
