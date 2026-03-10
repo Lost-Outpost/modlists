@@ -322,23 +322,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplashPage.webp",
       "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_e2dddc5f-8aea-4d9f-8992-fe7877af78ed",
+      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_3c072b6a-750f-4814-95cd-5ab049c1f2f8",
       "machineURL": "simonrimessentials",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857"
     },
     "download_metadata": {
-      "Hash": "QrgV5bF5zZc=",
-      "Size": 105417250,
+      "Hash": "SNx0qInCClc=",
+      "Size": 118393887,
       "NumberOfArchives": 232,
       "SizeOfArchives": 17625613653,
-      "NumberOfInstalledFiles": 19657,
-      "SizeOfInstalledFiles": 19916395928,
-      "TotalSize": 37542009581
+      "NumberOfInstalledFiles": 20112,
+      "SizeOfInstalledFiles": 20001441426,
+      "TotalSize": 37627055079
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-09T21:18:52.9801716Z",
+    "dateUpdated": "2026-03-10T13:54:51.9526027Z",
     "repositoryName": ""
   }
 ]
