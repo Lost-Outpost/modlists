@@ -28,7 +28,8 @@
       "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
       "machineURL": "lostlegacy",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "gjCy0agpOqE=",
@@ -73,7 +74,8 @@
       "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_6e41a6ef-d286-491a-bbfa-363bcc8099da",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/"
+      "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "qFkNyGQ5IRM=",
@@ -117,7 +119,8 @@
       "download": "https://authored-files.wabbajack.org/Telsera.wabbajack_0ae87752-3193-41b1-beed-a931d4741e67",
       "machineURL": "telsera",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "Q76qm3MEo4M=",
@@ -160,7 +163,8 @@
       "download": "https://authored-files.wabbajack.org/Septimus.wabbajack_6436169d-3e3d-49a2-a94f-36277409b97c",
       "machineURL": "septimus",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/170600",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "ffcbD6HUk1I=",
@@ -202,7 +206,8 @@
       "download": "https://authored-files.wabbajack.org/Dragonborn.wabbajack_4f4e32d6-7bc4-4f91-aa9b-443bf51b810a",
       "machineURL": "dragonborn",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/171604",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "JFQHnCi+F+c=",
@@ -243,7 +248,8 @@
       "download": "https://authored-files.wabbajack.org/The Path.wabbajack_298f0a09-7a7b-45a4-860f-f12b91220750",
       "machineURL": "thepath",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635"
+      "websiteURL": "https://www.nexusmods.com/enderalspecialedition/mods/635",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "dm89NXMYQVg=",
@@ -284,7 +290,8 @@
       "download": "https://authored-files.wabbajack.org/Constellation.wabbajack_54736dd6-bef9-4e68-94ad-4596c33afb12",
       "machineURL": "constellation",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953"
+      "websiteURL": "https://www.nexusmods.com/starfield/mods/15953",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "aDgLtCaYrhg=",
@@ -325,7 +332,8 @@
       "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_3c072b6a-750f-4814-95cd-5ab049c1f2f8",
       "machineURL": "simonrimessentials",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "SNx0qInCClc=",
@@ -343,7 +351,7 @@
   },
   {
     "title": "Ascendance",
-    "description": "Ascendance is a modlist designed to improve Skyrim's gameplay, integrate new content into the world, and provide a complete visual overhaul.",
+    "description": "Ascendance is a modlist designed to improve Skyrim\u0027s gameplay, integrate new content into the world, and provide a complete visual overhaul.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -366,23 +374,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitleSplash.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_7ee0f665-41fa-428e-9ff8-92dedd041f0b",
+      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_74da6db2-9669-4d3a-889c-7d007b88e7f2",
       "machineURL": "ascendance",
       "discordURL": "https://discord.gg/WF66mMu",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ThiVSncT+k4=",
-      "Size": 776502927,
-      "NumberOfArchives": 814,
-      "SizeOfArchives": 71951720791,
-      "NumberOfInstalledFiles": 118855,
-      "SizeOfInstalledFiles": 93253936086,
-      "TotalSize": 165205656877
+      "Hash": "RrL3rikSJe0=",
+      "Size": 776508661,
+      "NumberOfArchives": 813,
+      "SizeOfArchives": 71978289867,
+      "NumberOfInstalledFiles": 118880,
+      "SizeOfInstalledFiles": 93255701604,
+      "TotalSize": 165233991471
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-13T14:26:39.000Z",
+    "dateUpdated": "2026-03-13T18:25:41.5127314Z",
     "repositoryName": ""
   }
 ]
