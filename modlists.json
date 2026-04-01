@@ -333,7 +333,12 @@
       "machineURL": "ascendance",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "431733",
+        "slug": "xvo6bw",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "6kbqGR8F5sU=",
