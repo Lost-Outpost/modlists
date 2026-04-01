@@ -329,24 +329,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitleSplash.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_6014d330-fbfe-428f-a6a5-40f9cbf8f39d",
+      "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_0277b0b6-48ca-4f40-8680-ef9b581940fe",
       "machineURL": "ascendance",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "Zq0NWS6tkPk=",
-      "Size": 955899043,
-      "NumberOfArchives": 815,
-      "SizeOfArchives": 76209083439,
-      "NumberOfInstalledFiles": 110450,
-      "SizeOfInstalledFiles": 99508290343,
-      "TotalSize": 175717373782
+      "Hash": "6kbqGR8F5sU=",
+      "Size": 960407244,
+      "NumberOfArchives": 816,
+      "SizeOfArchives": 76202003428,
+      "NumberOfInstalledFiles": 110466,
+      "SizeOfInstalledFiles": 99577991905,
+      "TotalSize": 175779995333
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-01T20:23:50.3420435Z",
+    "dateUpdated": "2026-04-01T23:43:29.7985492Z",
     "repositoryName": ""
   }
 ]
