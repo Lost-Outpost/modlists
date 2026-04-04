@@ -327,7 +327,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitleSplash.webp",
+      "image": "https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitle.webp",
       "readme": "https://github.com/Ender108/Ascendance/blob/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_0277b0b6-48ca-4f40-8680-ef9b581940fe",
       "machineURL": "ascendance",
