@@ -75,7 +75,12 @@
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "455662",
+        "slug": "60dym8",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "qFkNyGQ5IRM=",
