@@ -69,7 +69,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
+      "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k-NoV.png",
       "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
       "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_69814995-995c-42aa-bb53-bc448bfbba13",
       "machineURL": "windsofthenorth",
