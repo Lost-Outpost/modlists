@@ -71,7 +71,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k-NoV.png",
       "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
-      "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_d00b1a06-2fef-4463-ab80-501d48e13da5",
+      "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_4e470a99-e131-4b81-9554-878360487856",
       "machineURL": "windsofthenorth",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
@@ -83,17 +83,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "dJN7CQFwRi8=",
-      "Size": 193318961,
+      "Hash": "cGf3JWj2fCM=",
+      "Size": 193160479,
       "NumberOfArchives": 699,
-      "SizeOfArchives": 52258946290,
-      "NumberOfInstalledFiles": 69221,
-      "SizeOfInstalledFiles": 60485177462,
-      "TotalSize": 112744123752
+      "SizeOfArchives": 52246515932,
+      "NumberOfInstalledFiles": 69241,
+      "SizeOfInstalledFiles": 60478341687,
+      "TotalSize": 112724857619
     },
-    "version": "4.1.1",
+    "version": "4.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-19T12:11:00.0944106Z",
+    "dateUpdated": "2026-06-22T21:10:04.032209Z",
     "repositoryName": ""
   },
   {
