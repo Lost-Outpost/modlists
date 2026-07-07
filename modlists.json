@@ -269,7 +269,7 @@
   },
   {
     "title": "Simonrim Essentials",
-    "description": "Simonrim Essentials is a Wabbajack modlist for those who want a modlist setup built of off Simon Magus\u0027 series of gameplay overhauls that they can easily add on to.",
+    "description": "Simonrim Essentials is an all-in-one installer for the entire suite of gameplay mods by Simon Magus and his team. It includes all dependencies and recommended settings, as well as a collection of critical, gameplay-oriented bug fixes.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -287,7 +287,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/SimonrimEssentialsSplashPage.webp",
+      "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/the-simonrim-suite-mo2-edition.webp",
       "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_283cc408-2234-4328-8588-37c46cf0fd1f",
       "machineURL": "simonrimessentials",
