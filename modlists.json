@@ -289,24 +289,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Simonrim-Essentials/refs/heads/main/the-simonrim-suite-mo2-edition.webp",
       "readme": "https://github.com/Ender108/Simonrim-Essentials/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_22a79862-1028-4a74-b0d5-29159260e558",
+      "download": "https://authored-files.wabbajack.org/Simonrim Essentials.wabbajack_a6a34b75-dbd7-42a9-8860-08941bf51779",
       "machineURL": "simonrimessentials",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/168857",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "v9OyCppkwFg=",
-      "Size": 105875493,
+      "Hash": "DGqq4WZ0k2Y=",
+      "Size": 105871246,
       "NumberOfArchives": 243,
-      "SizeOfArchives": 18618316507,
-      "NumberOfInstalledFiles": 11517,
-      "SizeOfInstalledFiles": 21569743570,
-      "TotalSize": 40188060077
+      "SizeOfArchives": 18727332348,
+      "NumberOfInstalledFiles": 11386,
+      "SizeOfInstalledFiles": 21476989421,
+      "TotalSize": 40204321769
     },
     "version": "1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-12T12:14:00.8796589Z",
+    "dateUpdated": "2026-08-13T02:29:18.809305Z",
     "repositoryName": ""
   },
   {
