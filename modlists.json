@@ -139,8 +139,8 @@
     "repositoryName": ""
   },
   {
-    "title": "Ascendance",
-    "description": "Ascendance is a modlist designed to improve Skyrim\u0027s gameplay, integrate new content into the world, and provide a complete visual overhaul.",
+    "title": "Morning Star",
+    "description": "Morning Star is a modlist that enhances Skyrim's gameplay and visuals without losing the original's feel.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -149,11 +149,10 @@
     "official": false,
     "tags": [
       "Steam",
+      "Vanilla Plus",
       "Simonrim",
-      "Anniversary Edition",
-      "Balanced",
-      "Creation Club",
-      "New Content"
+      "Open Shaders",
+      "PBR",
     ],
     "nsfw": false,
     "utility_list": false,
@@ -161,10 +160,10 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Ender108/Ascendance/refs/heads/main/AscendanceTitle.webp",
-      "readme": "https://github.com/Ender108/Ascendance/blob/main/Readme.md",
+      "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/morning_star_title.webp",
+      "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Ascendance.wabbajack_49b5d435-7d2d-4f15-b77e-dfd34eac30ba",
-      "machineURL": "ascendance",
+      "machineURL": "morningstar",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
       "nexusCollection": {
