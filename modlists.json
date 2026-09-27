@@ -140,7 +140,7 @@
   },
   {
     "title": "Morning Star",
-    "description": "Morning Star is a modlist that enhances Skyrim's gameplay and visuals without losing the original's feel.",
+    "description": "Morning Star is a modlist that enhances Skyrim\u0027s gameplay and visuals without losing the original\u0027s feel.",
     "author": "Ender",
     "maintainers": [
       "github/Ender108"
@@ -162,7 +162,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/morning_star_title.webp",
       "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_ac10ac39-98a4-4cfe-9ea6-a8a304782820",
+      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_9c7a4cd6-8191-4acd-9631-431de3ededd0",
       "machineURL": "morningstar",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
@@ -174,17 +174,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "rqu6fjfY55Y=",
-      "Size": 1235823181,
+      "Hash": "epFDYMqEGCY=",
+      "Size": 1235823564,
       "NumberOfArchives": 422,
       "SizeOfArchives": 51487098999,
       "NumberOfInstalledFiles": 164350,
-      "SizeOfInstalledFiles": 80432537767,
-      "TotalSize": 131919636766
+      "SizeOfInstalledFiles": 80432537766,
+      "TotalSize": 131919636765
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-25T02:38:18.8309464Z",
+    "dateUpdated": "2026-09-27T00:39:13.3516607Z",
     "repositoryName": ""
   }
 ]
