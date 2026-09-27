@@ -174,15 +174,15 @@
       }
     },
     "download_metadata": {
-      "Hash": "T4txVwh/h/0=",
-      "Size": 2435302758,
-      "NumberOfArchives": 754,
-      "SizeOfArchives": 62186462580,
-      "NumberOfInstalledFiles": 113760,
-      "SizeOfInstalledFiles": 86900776137,
-      "TotalSize": 149087238717
+      "Hash": ""rqu6fjfY55Y="",
+      "Size": 1235823181,
+      "NumberOfArchives": 422,
+      "SizeOfArchives": 51487098999,
+      "NumberOfInstalledFiles": 164350,
+      "SizeOfInstalledFiles": 80432537767,
+      "TotalSize": 131919636766
     },
-    "version": "1.2.0",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-07-25T02:38:18.8309464Z",
     "repositoryName": ""
