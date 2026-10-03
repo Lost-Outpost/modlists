@@ -162,7 +162,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/morning_star_title.webp",
       "readme": "https://github.com/Ender108/Morning-Star/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_747cf20f-318f-4dcd-a822-c0fed19bc522",
+      "download": "https://authored-files.wabbajack.org/Morning Star.wabbajack_38ac4959-7854-4f97-8e0a-3395be3bd176",
       "machineURL": "morningstar",
       "discordURL": "https://discord.gg/WF66mMu",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/174078",
@@ -174,17 +174,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "I2KzkhRbx+A=",
-      "Size": 1235996052,
-      "NumberOfArchives": 426,
-      "SizeOfArchives": 51506455009,
-      "NumberOfInstalledFiles": 167786,
-      "SizeOfInstalledFiles": 80712591834,
-      "TotalSize": 132219046843
+      "Hash": "Jpnq2dcqGf4=",
+      "Size": 1166070279,
+      "NumberOfArchives": 434,
+      "SizeOfArchives": 51641576601,
+      "NumberOfInstalledFiles": 168252,
+      "SizeOfInstalledFiles": 81307094067,
+      "TotalSize": 132948670668
     },
     "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-27T20:25:25.8476304Z",
+    "dateUpdated": "2026-10-03T17:12:54.3814073Z",
     "repositoryName": ""
   }
 ]
